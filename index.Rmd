@@ -6,6 +6,9 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+<br>
+<br>
+
 ## Welcome! 
 
 I am a Freshwater Ecologist with a background in Public Administration. I'm currently in my second year of my PhD at Cornell University working on zooplankton in the Great Lakes and at a global scale. Please see my research interests for more information.

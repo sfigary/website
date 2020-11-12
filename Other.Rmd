@@ -6,9 +6,14 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+<br>
+<br>
+
 ## Public Service
 
 I'm passionate about bringing research and scientific knowledge into public service. Since 2014, I have served on town Conservation Commissions or Natural Resource boards. Here, I have been active in several projects including delineating a wetland to develop a new trail system in Narragansett, RI, creating a land management plan for an emerging salt marsh, and now tackling deer management in the natural lands in the City of Ithaca. 
+
+<br>
 
 * **City of Ithaca Parks, Recreation and Natural Resources Commission**, member (appointment: 2019 - present)
 * **Narragansett Conservation Commission**, Vice Chair (appointment: 2016 - 2019)

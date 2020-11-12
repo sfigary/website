@@ -6,7 +6,12 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+<br>
+<br>
+
 ## Contact
+
+<br>
 
 Cornell University, Department of Natural Resources & the Environment
 

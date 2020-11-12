@@ -6,6 +6,9 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+<br>
+<br>
+
 # Curriculum vitae
 
 <br>

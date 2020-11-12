@@ -10,6 +10,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 My research interests and experiences has spanned many topics, all within aquatic ecology.
 
+More soon! 
+
 ## Great Lakes zooplankton
 
 ## Zooplankton as ecosystem indicators

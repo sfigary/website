@@ -10,10 +10,10 @@ navbar:
       href: Pubs.html 
     - text: "CV"
       href: CV.html
+    - text: "Public Service"
+      href: Other.html
     - text: "Contact"
       href: Contact.html
-    - text: "Other"
-      href: Other.html
 output_dir: "."
 output:
   html_document:

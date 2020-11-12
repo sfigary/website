@@ -1,0 +1,132 @@
+---
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Curriculum vitae
+
+<br>
+
+---------
+
+## Education
+
+<br>
+
+#### Cornell University
+
+**PhD student, Fisheries and Aquatic Ecology**
+
+Department of Natural Resources and the Environment
+2019 - present
+
+<br>
+
+#### SUNY College of Environmental Science and Forestry
+
+**Master of Science in Ecology (2013)**
+
+Thesis title: Establishment and effect of invasive species: A natural experiment with *Cercopagis pengoi* in the New York Finger Lakes
+
+
+<br>
+
+
+#### Maxwell School of Citizenship at Syracuse University
+
+**Master of Public Administration (2013)**
+
+Concentration in Environmental Policy
+Capstone project title: Economic impact analysis of Onondaga County’s green infrastructure program, *Save the Rain*
+
+
+<br>
+
+
+#### SUNY College at Brockport
+
+**Bachelor of Science in Environmental Science and Biology (2008)**
+
+Independent study: The deep chlorophyll layer of Lake Ontario
+
+<br>
+
+------
+
+## Professional Experience 
+
+#### USEPA, Office of Research and Development 
+Oak Ridge Institute of Science and Education Research Participant (2015-2019)
+
+Narragansett, RI 
+
+<br>
+
+#### Wissahickon Valley Watershed Association
+Water Quality Program Manager (2014 – 2015)
+
+Independent Contractor (2016 - 2017)
+
+Ambler, PA
+
+<br>
+
+#### SUNY ESF
+Graduate Research and Teaching Assistant (2009 - 2013)
+
+Syracuse, NY
+
+<br>
+
+#### Clarkson University
+Research Technician (2009)
+
+Potsdam, NY
+
+<br>
+
+#### Research Foundation
+Research Technician (2007 - 2008)
+
+Brockport, NY
+
+<br>
+
+------
+
+## Successful Grant Applications
+
+* WVWA. Growing Greener. 2015. $369,600. Stream restoration.
+* WVWA. William Penn Foundation. 2015. $82,500. Stakeholder collaboration.
+* WVWA. National Fish and Wildlife Foundation. 2015. $190,000. Restoration construction plans.
+* SUNY ESF. Seven grants totaling $8500 for research and travel funds.
+
+<br>
+
+------
+
+## Professional Societies
+
+* Association for the Sciences of Limnology and Oceanography
+* Ecological Society of America
+* Society for Freshwater Science
+* Global Lake Ecological Observatory Network
+* International Association for Great Lakes Research
+
+
+<br>
+
+------
+
+## Certifications and Workshops
+
+* Communications Boot Camp for Scientists. American Institute of Biological Sciences. Washington, D.C. (2017)
+* Certified Wetland Delineator, Rutgers University 
+* Open Water Dive and Dry Suit Certified
+* New York Boater Safety Course
+
+
+<br>

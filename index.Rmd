@@ -1,0 +1,19 @@
+---
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## About
+
+Welcome! 
+
+I am a Freshwater Ecologist with a background in Public Administration. I'm currently in my second year of my PhD at Cornell University working on zooplankton in the Great Lakes and at a global scale. Please see my research interests for more information.
+
+
+This site is a work in process, so please reach out if you have any questions.
+
+
+![](IMG_20190717_155036743_HDR.jpg){width=30%}

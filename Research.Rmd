@@ -1,0 +1,25 @@
+---
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Research projects and interests
+
+My research interests and experiences has spanned many topics, all within aquatic ecology.
+
+## Great Lakes zooplankton
+
+## Zooplankton as ecosystem indicators
+
+## Impervious cover impacts in watersheds
+
+## Stream temperature modeling
+
+## Invasive species
+
+## Community involvement in watershed management
+
+## Public adminstration and aquatic ecology

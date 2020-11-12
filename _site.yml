@@ -19,5 +19,4 @@ output:
   html_document:
     theme: flatly
     highlight: textmate
-    toc: true 
     toc_float: true 

@@ -10,7 +10,7 @@ navbar:
       href: Pubs.html 
     - text: "CV"
       href: CV.html
-    - text: "Public service and other interests"
+    - text: "Public service"
       href: Other.html
     - text: "Contact"
       href: Contact.html

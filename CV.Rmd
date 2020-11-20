@@ -21,10 +21,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #### Cornell University
 
-**PhD student, Fisheries and Aquatic Ecology**
+**PhD student, Fisheries and Aquatic Ecology (2019 - present)**
 
 Department of Natural Resources and the Environment
-2019 - present
+
 
 <br>
 

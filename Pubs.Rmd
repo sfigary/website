@@ -14,11 +14,11 @@ knitr::opts_chunk$set(echo = TRUE)
 <br>
 
 ## Journal articles
-**Figary, S.,** N. Detenbeck, and C. O'Donnell. 2020. Guiding riparian management in a transboundary watershed through high resolution spatial statistical network models. Journal of Environmental Management. (accepted)
+**Figary, S.,** N. Detenbeck, and C. O'Donnell. 2021. Guiding riparian management in a transboundary watershed through high resolution spatial statistical network models. Journal of Environmental Management. 278(2): 111585. DOI: 10.1016/j.jenvman.2020.111585. [Read](http://www.sciencedirect.com/science/article/pii/S0301479720315103)
 
-Holmes, C. J., **S. Figary,** K. L. Schulz, and C. E. Cáceres. 2016. Effects of diversity on community assembly in newly formed pond communities. Ecosphere 7(7): e01377. 10.1002/ecs2.1377
+Holmes, C. J., **S. Figary,** K. L. Schulz, and C. E. Cáceres. 2016. Effects of diversity on community assembly in newly formed pond communities. Ecosphere 7(7): e01377. 10.1002/ecs2.1377. [Read](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.1377)
 
-Kring, S. A., **S. E. Figary,** G. L. Boyer, S. B. Watson, and M. R. Twiss. 2014. Rapid in situ measures of phytoplankton communities using the bbe FluoroProbe®: Evaluation of spectral calibration, instrument intercompatibility and performance range. Canadian Journal of Fisheries and Aquatic Sciences, 71(7): 1087-1095, DOI: 10.1139/cjfas-2013-0599.
+Kring, S. A., **S. E. Figary,** G. L. Boyer, S. B. Watson, and M. R. Twiss. 2014. Rapid in situ measures of phytoplankton communities using the bbe FluoroProbe®: Evaluation of spectral calibration, instrument intercompatibility and performance range. Canadian Journal of Fisheries and Aquatic Sciences, 71(7): 1087-1095, DOI: 10.1139/cjfas-2013-0599. [Read](https://cdnsciencepub.com/doi/abs/10.1139/cjfas-2013-0599)
 
 
 <br>
@@ -34,4 +34,4 @@ Kring, S. A., **S. E. Figary,** G. L. Boyer, S. B. Watson, and M. R. Twiss. 2014
 
 **Figary, S.** 2017. Wissahickon Watershed Stream Monitoring and Assessment Program: A summary of data collected by the *Wissahickon Valley Watershed Association* from 2004-2016. Executive Report.
 
-Begay, J., T. Dannan, K. M. Edwards, **S. Figary.** 2012. Economic impact analysis of Onondaga County’s green infrastructure program, *Save the Rain*. Executive Report.
+Begay, J., T. Dannan, K. M. Edwards, **S. Figary.** 2012. Economic impact analysis of Onondaga County’s green infrastructure program, *Save the Rain*. Executive Report. [Read](https://issuu.com/savetherain/docs/save_the_rain_economic_impact_report_final)

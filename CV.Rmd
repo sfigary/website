@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 <br>
 <br>
 
-# Curriculum vitae
+# **Curriculum vitae**
 
 <br>
 
@@ -21,10 +21,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #### Cornell University
 
-**PhD student, Fisheries and Aquatic Ecology (2019 - present)**
+**PhD student, Applied Ecology (2019 - present)**
 
 Department of Natural Resources and the Environment
-
+Minor concentrations: Quantitative ecology and Human dimensions in natural resource management
 
 <br>
 

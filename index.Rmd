@@ -9,11 +9,9 @@ knitr::opts_chunk$set(echo = TRUE)
 <br>
 <br>
 
-## Welcome! 
+# **Welcome!** 
 
-I am a freshwater ecologist with a background in public administration. I'm currently in my second year of my PhD at Cornell University working on zooplankton in the Great Lakes and at a global scale. Please see my research interests for more information.
-
-This site is a work in progress. Please [reach out](https://sfigary.github.io/website/Contact.html) if you have any questions.
+I am a freshwater ecologist with a background in public administration. I'm currently in my second year of my PhD at Cornell University working on zooplankton in the Great Lakes and at a global scale. Please see my research interests for more information and [reach out](https://sfigary.github.io/website/Contact.html) if you have any questions.
 
 <center>
 ![](IMG_20190717_155036743_HDR.jpg){width=30%}

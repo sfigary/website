@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 <br>
 <br>
 
-## Public Service
+# **Public Service**
 
 With my background in both freshwater ecology and public administration, I am passionate about brining science into public service. Since 2014, I have served on town Conservation or Natural Resources Commissions in the three towns I have live in during that time. Here, I have been active in several projects including delineating a wetland to develop a new trail system in Narragansett, RI, creating a land management plan for an emerging salt marsh, and now tackling deer management in the public natural lands for the City of Ithaca. 
 
@@ -20,6 +20,8 @@ With my background in both freshwater ecology and public administration, I am pa
   * Middlebridge Conservation Plan Working Group
 * **Ambler Environmental Advisory Council**, member (appointment: 2014 - 2015)
 
-I am always looking for new ways to merge my research interests with public service. Please reach out if you have any opportunities.
-
 <br>
+
+I am always looking for new ways to merge my research interests with public service.  Please reach out if you have any opportunities.
+
+

@@ -28,6 +28,8 @@ Kring, S. A., **S. E. Figary,** G. L. Boyer, S. B. Watson, and M. R. Twiss. 2014
 
 **Figary, S.** and N. Detenbeck. Resolution matters: macroinvertebrate responses to impervious cover in a Mediterranean differs with impervious cover datasets. Freshwater Science. (in prep).
 
+**Figary, S.**, P. DeWitt and N. Detenbeck. pTITAN2: Permutation of Treatment Labels and Threshold Indicator Taxa ANalysis. F1000Research (in prep). 
+
 <br>
 
 ## Reports

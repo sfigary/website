@@ -24,6 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 **PhD student, Applied Ecology (2019 - present)**
 
 Department of Natural Resources and the Environment
+
 Minor concentrations: Quantitative ecology and Human dimensions in natural resource management
 
 <br>
@@ -43,6 +44,7 @@ Thesis title: Establishment and effect of invasive species: A natural experiment
 **Master of Public Administration (2013)**
 
 Concentration in Environmental Policy
+
 Capstone project title: Economic impact analysis of Onondaga County’s green infrastructure program, *Save the Rain*
 
 

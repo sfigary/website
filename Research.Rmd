@@ -11,6 +11,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # **Research and interests**
 
+<br>
+
 My current and past projects reflect my broad research interests in aquatic ecology and ways I have tried to make my research more actionable. 
 
 <br>

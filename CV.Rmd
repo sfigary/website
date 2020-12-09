@@ -25,7 +25,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Department of Natural Resources and the Environment
 
-Minor concentrations: Quantitative ecology and Human dimensions in natural resource management
+Minor concentrations: (1) Fisheries and aquatic sciences, (2) Quantitative ecology, and (3) Human dimensions in natural resource management
 
 <br>
 

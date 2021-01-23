@@ -14,6 +14,8 @@ knitr::opts_chunk$set(echo = TRUE)
 <br>
 
 ## Journal articles
+**Figary, S. E.** and K. L. Schulz. 2021 Spines and surplus: Existing inducible defenses and abundant resources may reduce the impacts of *Cercopagis pengoi* on a likely prey species. Aquatic Invasions. (Accepted). 
+
 **Figary, S.,** N. Detenbeck, and C. O'Donnell. 2021. Guiding riparian management in a transboundary watershed through high resolution spatial statistical network models. Journal of Environmental Management. 278(2): 111585. DOI: 10.1016/j.jenvman.2020.111585. [Read](http://www.sciencedirect.com/science/article/pii/S0301479720315103)
 
 Holmes, C. J., **S. Figary,** K. L. Schulz, and C. E. Cáceres. 2016. Effects of diversity on community assembly in newly formed pond communities. Ecosphere 7(7): e01377. 10.1002/ecs2.1377. [Read](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.1377)
@@ -23,12 +25,10 @@ Kring, S. A., **S. E. Figary,** G. L. Boyer, S. B. Watson, and M. R. Twiss. 2014
 
 <br>
 
-## Manuscripts
-**Figary, S.** and K. L. Schulz. Spines and surplus: Existing inducible defenses and abundant resources may reduce the impacts of *Cercopagis pengoi* on a likely prey species. Aquatic Invasions. (in review). 
+## Manuscripts in preparation
+**Figary, S.** and N. Detenbeck. Resolution matters: macroinvertebrate responses to impervious cover in a Mediterranean differs with impervious cover datasets. Freshwater Science. 
 
-**Figary, S.** and N. Detenbeck. Resolution matters: macroinvertebrate responses to impervious cover in a Mediterranean differs with impervious cover datasets. Freshwater Science. (in prep).
-
-**Figary, S.**, P. DeWitt and N. Detenbeck. pTITAN2: Permutation of Treatment Labels and Threshold Indicator Taxa ANalysis. F1000Research (in prep). 
+**Figary, S.**, P. DeWitt and N. Detenbeck. pTITAN2: Permutation of Treatment Labels and Threshold Indicator Taxa ANalysis. F1000Research.
 
 <br>
 

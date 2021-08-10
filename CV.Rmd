@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #### Cornell University
 
-**PhD student, Applied Ecology (2019 - present)**
+**PhD candidate, Applied Ecology (2019 - present)**
 
 Department of Natural Resources and the Environment
 

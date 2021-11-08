@@ -6,6 +6,8 @@ navbar:
       href: index.html
     - text: "Research"
       href: Research.html
+    - text: "ZIG"
+      href: ZIG.html
     - text: "Publications"
       href: Pubs.html 
     - text: "CV"
@@ -17,6 +19,6 @@ navbar:
 output_dir: "."
 output:
   html_document:
-    theme: flatly
+    theme: sandstone
     highlight: textmate
     toc_float: true 

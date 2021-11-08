@@ -9,14 +9,15 @@ knitr::opts_chunk$set(echo = TRUE)
 <br>
 <br>
 
+<img src="IMG_20190717_155036743_HDR.jpg" alt="Steph Figary" width="24%" align="left" hspace="20" vspace="20">
+
 # **Welcome!** 
 
 <br>
 
-I am a freshwater ecologist with a background in public administration and a PhD candidate at Cornell University working on zooplankton in the Great Lakes and at a global scale. Please see my research interests for more information and [reach out](https://sfigary.github.io/website/Contact.html) if you have any questions.
+I am a freshwater ecologist with a background in public administration (MPA) and am currently a PhD candidate at Cornell University. For my dissertation, I am using long-term monitoring datasets to understand the lower trophic levels of the Great Lakes. Additionally, I am a co-lead of the [GLEON](https://gleon.org/) Zooplankton as Indicators Group [(ZIG)](https://sfigary.github.io/website/ZIG.html) that is developing a global zooplankton dataset to investigate the use of zooplankton as indicators of ecological condition at a global scale.
+
+Please see my [research interests](https://sfigary.github.io/website/Research.html) for more information and [reach out](https://sfigary.github.io/website/Contact.html) if you have any questions.
 
 <br>
 
-<center>
-![](IMG_20190717_155036743_HDR.jpg){width=30%}
-</center>

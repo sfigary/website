@@ -9,6 +9,8 @@ knitr::opts_chunk$set(echo = TRUE)
 <br>
 <br>
 
+<img src="Figary Stephanie IMG_2711.jpg" alt="Steph Figary" width="24%" align="left" hspace="20" vspace="20">
+
 # **Contact**
 
 <br>
@@ -18,3 +20,8 @@ Cornell University, Department of Natural Resources & the Environment
 Email: sef92@cornell.edu
 
 Twitter: @StephFigary
+
+
+
+
+

@@ -13,13 +13,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br>
 
-My current and past projects reflect my broad research interests in aquatic ecology and ways I have tried to make my research more actionable. 
+My current and past projects reflect my broad research interests in aquatic ecology. 
 
 <br>
 
 ## Zooplankton as global ecosystem indicators
 
-I am co-leading an project on [zooplankton as ecosystem indicators](https://gleon.org/research/projects/zooplankton-indicators) as part of  the Global Lake Ecological Observatory Network ([GLEON](https://gleon.org/)) with over 40 researchers from around the world. We have identified ten research questions about zooplankton as indicators and are currently requesting long-term zooplankton data to answer these questions. Our first project is determining the effectiveness of existing zooplankton as indicators (e.g. cladoceran to calanoid ratio as an indicator of lake productivity) using a global data set. The goal of this work is to provide guidance on using zooplankton as indicators of ecosystem condition. Please [contact](sef92@cornell.edu) me if you are interested in joining this group!
+I am co-leading an project on zooplankton as ecosystem indicators [(ZIG)](https://sfigary.github.io/website/ZIG.html) as part of  the Global Lake Ecological Observatory Network ([GLEON](https://gleon.org/)) with over 100 researchers from around the world. We have identified ten research questions about zooplankton as indicators and are currently requesting long-term zooplankton data to answer these questions. Our first project is determining the effectiveness of existing zooplankton as indicators (e.g. cladoceran to calanoid ratio as an indicator of lake productivity) using a global data set. The goal of this work is to provide guidance on using zooplankton as indicators of ecosystem condition. Learn more about this effort and how to get involved [here!](https://sfigary.github.io/website/ZIG.html).
 
 <br>
 
@@ -41,7 +41,7 @@ The urban stream syndrome is a well documented condition in streams with upstrea
 
 
 ## Community involvement in watershed management
-I have experience in watershed management and community involvement from my time at the Wissahickon Valley Watershed Association where I worked closely with the public and municipal leaders. While here, I launched a volunteer citizen science group, Creek Watchers, to help in monitor the Wissahickon watershed. Additionally, I wrote grants for both stream restoration projects and to bolster collaboration in addressing the urban stream syndrome with state and local governments, waste water treatment plants, and local non-profits.  This work is still ongoing today as part of the [Delaware River Watershed Initiative](https://4states1source.org/) with an overarching goal of protecting and restoring the water quality of the Delaware River Watershed. 
+I have experience in watershed management and community involvement from my time at the Wissahickon Valley Watershed Association where I worked closely with the public and municipal leaders. While here, I launched a volunteer community science group, Creek Watchers, to help in monitor the Wissahickon watershed. Additionally, I wrote grants for both stream restoration projects and to bolster collaboration in addressing the urban stream syndrome with state and local governments, waste water treatment plants, and local non-profits.  This work is still ongoing today as part of the [Delaware River Watershed Initiative](https://4states1source.org/) with an overarching goal of protecting and restoring the water quality of the Delaware River Watershed. 
 
 <br> 
 

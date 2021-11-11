@@ -13,43 +13,49 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br>
 
-My current and past projects reflect my broad research interests in aquatic ecology. 
+I am passionate about understanding freshwater ecosystems to better protect and manage them into the future. My past and current projects reflect my broad interests and approaches as a researcher, practitioner, and public servant. 
 
 <br>
 
 ## Zooplankton as global ecosystem indicators
 
-I am co-leading an project on zooplankton as ecosystem indicators [(ZIG)](https://sfigary.github.io/website/ZIG.html) as part of  the Global Lake Ecological Observatory Network ([GLEON](https://gleon.org/)) with over 100 researchers from around the world. We have identified ten research questions about zooplankton as indicators and are currently requesting long-term zooplankton data to answer these questions. Our first project is determining the effectiveness of existing zooplankton as indicators (e.g. cladoceran to calanoid ratio as an indicator of lake productivity) using a global data set. The goal of this work is to provide guidance on using zooplankton as indicators of ecosystem condition. Learn more about this effort and how to get involved [here!](https://sfigary.github.io/website/ZIG.html).
+I co-lead a project on zooplankton as ecosystem indicators [(ZIG)](https://sfigary.github.io/website/ZIG.html) as part of the Global Lake Ecological Observatory Network ([GLEON](https://gleon.org/)) with over 100 aquatic researchers from around the world. Our first project will determine the effectiveness of existing zooplankton metrics (e.g., % calanoids) using a global dataset that ZIG is creating. This research will provide guidance on using zooplankton as indicators in geographic regions and lake types. Look [here](https://sfigary.github.io/website/ZIG.html) to learn more about this effort and getting involved.
 
 <br>
 
-## Lower trophic levels in the Great Lakes
-For my PhD research, I am interested in using existing zooplankton data to answer ecological and methodological questions that helps inform policies impacting the lower trophic levels of the Great Lakes and improve the usability of the data. I am using long-term existing data from the United States Environmental Protection Agency’s [Biological Monitoring Program](https://www.epa.gov/great-lakes-monitoring/great-lakes-biology-monitoring-program) and [Cooperative Science and Monitoring Initiative](https://www.epa.gov/great-lakes-monitoring/cooperative-science-and-monitoring-initiative-csmi) to determine how the zooplankton community composition and abundance has changed over time and the difference between nearshore and offshore habitat in the Lake Ontario. 
+
+## Understanding lower trophic levels in the Great Lakes
+
+I am improving the usability of long-term existing data from the United States Environmental Protection Agency’s [Biological Monitoring Program](https://www.epa.gov/great-lakes-monitoring/great-lakes-biology-monitoring-program) and [Cooperative Science and Monitoring Initiative](https://www.epa.gov/great-lakes-monitoring/cooperative-science-and-monitoring-initiative-csmi) to better understand the Great Lakes and how policies have impacted the lower trophic levels over time. I will use this data to determine (1) if the nearshore and the offshore of Lake Ontario should be treated as different habitat types when developing lake-wide nutrient targets, (2) how the zooplankton community composition and abundance has changed over time, and (3) the most robust use of zooplankton as ecosystem indicators based on past performance. 
+
 
 <br>
 
-## Stream temperature modeling
-Spatial statistical network models are powerful tools for modeling and predicting parameters in a stream network. While at the EPA, I developed a spatial statistical network model of stream temperature for the Meduxnekeag Watershed as a collaboration between the USEPA and the [Houlton Band of Maliseet Indians](http://www.maliseets.com/index.htm). This [published](https://www.sciencedirect.com/science/article/pii/S0301479720315103) model is being used to guide riparian restoration practices in the watershed to reduce stream temperature and restore coldwater habitat. 
+
+## Guiding stream restoration with modeling
+
+I developed a [published](https://www.sciencedirect.com/science/article/pii/S0301479720315103) spatial statistical network model of stream temperature for the Meduxnekeag Watershed that guides riparian restoration practices in the watershed to reduce stream temperature and restore coldwater habitat. This work was a collaboration between the [Houlton Band of Maliseet Indians](http://www.maliseets.com/index.htm) and USEPA. 
 
 <br>
+
 
 ## Impervious cover impacts in watersheds
-The urban stream syndrome is a well documented condition in streams with upstream development and impervious cover. I’ve worked to address this problem both as a researcher and a practitioner (see next section). Focusing on my research while at the EPA, I determined the amount of upstream impervious cover that caused changes in the stream macroinvertebrate community in both intermittent and perennial streams in the Mediterranean climate of California using Threshold Indicator Taxa ANalysis (TITAN). Overall, the macroinvertebrate community were found to be more sensitive to upstream development than other climatic regions in the United States that used similar study methods. 
+I determined the amount of upstream impervious cover that caused changes in the stream macroinvertebrate community in both intermittent and perennial streams in the Mediterranean climate of California using Threshold Indicator Taxa ANalysis (TITAN). This is vital for developing new stormwater capture policies that are specific to and protect the high biodiversity of California. Overall, I found that the macroinvertebrate community is more sensitive to upstream development than other climatic regions in the United States that used similar study methods. 
 
 <br>
-
 
 
 ## Community involvement in watershed management
-I have experience in watershed management and community involvement from my time at the Wissahickon Valley Watershed Association where I worked closely with the public and municipal leaders. While here, I launched a volunteer community science group, Creek Watchers, to help in monitor the Wissahickon watershed. Additionally, I wrote grants for both stream restoration projects and to bolster collaboration in addressing the urban stream syndrome with state and local governments, waste water treatment plants, and local non-profits.  This work is still ongoing today as part of the [Delaware River Watershed Initiative](https://4states1source.org/) with an overarching goal of protecting and restoring the water quality of the Delaware River Watershed. 
+I launched a volunteer community science group, Creek Watchers, with over 70 volunteers that monitored the Wissahickon watershed while at the Wissahickon Valley Watershed Association (now [Wissahickan Trails](https://wissahickontrails.org/)). Additionally, I wrote successful grants for stream restoration projects (NFWF and PA Growing Greener) and a William Penn Foundation grant to address stormwater management problems by facilitating collaboration between stakeholders including state and local governments, waste water treatment plants, and local non-profits. This work is ongoing as part of the [Delaware River Watershed Initiative](https://4states1source.org/) with an overarching goal of protecting and restoring the water quality of the Delaware River Watershed. 
+
 
 <br> 
 
 ## Public administration, policy, and actionable research
-I completed a Masters of Public Administration (Syracuse University) concurrently during my Master of Science (SUNY ESF). Though most of my work, so far, is grounded in ecological studies, I am constantly thinking about ways of improving my research's application and actionability, including pursuing a minor in Human dimensions of natural resource management during my PhD. Outside of research, I am active in [public service](https://sfigary.github.io/website/Other.html) as well. 
+I am constantly thinking about how use my scientific training to help the environment and society by expanding the usability of my ecological research and being active in [public service](https://sfigary.github.io/website/Other.html). I completed a Master of Public Administration (Syracuse University) concurrently during my Master of Science (SUNY ESF) where I addressed watershed management policies by completing an economic cost-benefit analysis of Onondaga County’s green infrastructure program, Save the Rain, compared to traditional 'grey' approaches to managing stormwater.
 
 <br>
 
-## Non-native species
-I am interested in non-native species and their impacts in freshwater systems. During my Master of Science, I studied *Cercopagis pengoi* in the New York Finger Lakes, including their impact on likely prey items and their pattern of invasion in the region. Though this work is complete, I am still interested in the impacts of non-native of species in aquatic systems. 
+## Food-web disruption by non-native species
 
+An overarching theme in my research is an interest in how food webs change in response to different factors, including non-native species. While at SUNY ESF, I determined the impact of *Cercopagis pengoi* in the New York Finger Lakes on their likely prey items ([published](https://www.reabic.net/aquaticinvasions/2021/issue3.aspx)) and their pattern of invasion in the region. 

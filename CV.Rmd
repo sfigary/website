@@ -38,7 +38,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #### Cornell University (Ithaca, NY)
 
-**Graduate Research Assistant, Applied Ecology (2019-present)**
+**Graduate Research Assistant, Applied Ecology (2019 - present)**
 
 * Using long-term monitoring datasets to understand the lower trophic levels of the Great Lakes
 * Launched a Zooplankton as Indicators project in Nov 2019 (>100 participants from 28 countries) as part of the Global Lake Ecological Observatory Network to investigate the use of zooplankton as indicators with a global dataset
@@ -47,32 +47,32 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #### USEPA, Office of Research and Development (Narragansett, RI)
 
-**Oak Ridge Institute of Science and Education Research Participant (2015-2019)**
+**Oak Ridge Institute of Science and Education Research Participant (2015 - 2019)**
 
 * Determined the impact of impervious cover on macroinvertebrate communities in intermittent and perennial streams using Threshold Indicator Taxa ANalysis in R and introduced a statistical R package, pTITAN2
-*	Developed a Spatial Statistical Network stream temperature model to guide the Houlton Band of Maliseet Indians riparian restoration priorities by predicting several restoration scenarios using four restored riparian buffer widths
+*	Developed a Spatial Statistical Network stream temperature model to guide the Houlton Band of Maliseet Indians riparian restoration priorities by predicting several restoration scenarios using four restored riparian buffer widths ([published](http://www.sciencedirect.com/science/article/pii/S0301479720315103))
  
 <br>
 
-#### Wissahickon Valley Watershed Association (Ambler, PA)
+#### Wissahickon Trails (former Wissahickon Valley Watershed Association, Ambler, PA)
 
 **Water Quality Program Manager (2014 – 2015)**
 
 *	Team leader and program manager of a $143K/year Delaware River Watershed Initiative (DRWI) grant
-*	Expanded an existing water quality program by (1) improving the statistical quality of data by implementing a QA/QC plan, (2) bolstering sampling at restoration sites to quantify improvements, and (3) leading the DWRI water quality sub-committee and implementing monitoring plans, QA/QC practices, and developing the database for four partner watershed organizations
+*	Expanded an existing water quality program by (1) improving the statistical quality of data by implementing a QA/QC plan, (2) bolstering sampling at restoration sites to quantify improvements, and (3) leading the DWRI water quality sub-committee and implementing monitoring plans, QA/QC practices, and developing a water quality database for four partner watershed organizations
 
 **Independent Contractor (2016 - 2017)**
 
-*	Quantified trends in habitat, macroinvertebrate, and water quality over a decade of monitoring data
+*	Quantified trends in habitat, macroinvertebrate, and water quality with over a decade of monitoring data
 *	Summarized findings for public, municipalities, and scientific audiences in a white paper (92 pages)
 
 <br>
 
 #### SUNY ESF (Syracuse, NY)
 
-**Graduate Research Assistant, Ecology (2009-2011)**
+**Graduate Research Assistant, Ecology (2009 - 2011)**
 
-* Investigated invertebrate dispersal to newly created vernal pools in an experimental forest (39 ponds) and survey ponds (40 ponds) in a 20 mile radius around the forest [(published)](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.1377)
+* Investigated invertebrate dispersal to newly created vernal pools in an experimental forest (39 ponds) and survey ponds (40 ponds) surrounding the experimental forest ([published](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.1377))
 *	Led field sampling, analyzed water chemistry, created a database, and identified invertebrates 
 
 **Graduate Teaching Assistant (2011 - 2012)**
@@ -87,7 +87,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 **Research Technician, Limnology (2009)**
 
-* Determined the accuracy and precision of aquatic research equipment, the bbe FluoroProbe® [(published)](https://cdnsciencepub.com/doi/abs/10.1139/cjfas-2013-0599)
+* Determined the accuracy and precision of aquatic research equipment, the bbe FluoroProbe® ([published](https://cdnsciencepub.com/doi/abs/10.1139/cjfas-2013-0599))
 
 
 <br>

@@ -1,20 +1,30 @@
-name: "website"
+name: website
 navbar:
-  title: "Stephanie Figary"
+  title: Stephanie Figary
+  right: 
+    - icon: fa-envelope fa-lg
+      href: mailto:<sef92@cornell.edu>
+    - icon: fa fa-twitter fa-stack-1x
+      href: https://twitter.com/StephFigary
+    - icon: fa fa-linkedin fa-fw
+      href: https://www.linkedin.com/in/stephaniefigary/
+    - icon: fa fa-github fa-fw
+      href: https://github.com/sfigary
+      
   left:
-    - text: "Home"
+    - text: Home
       href: index.html
-    - text: "Research"
+    - text: Research
       href: Research.html
-    - text: "ZIG"
+    - text: ZIG
       href: ZIG.html
-    - text: "Publications"
+    - text: Publications
       href: Pubs.html 
-    - text: "CV"
+    - text: CV
       href: CV.html
-    - text: "Public service"
+    - text: Public service
       href: Other.html
-    - text: "Contact"
+    - text: Contact
       href: Contact.html
 output_dir: "."
 output:

@@ -15,7 +15,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <left>
 
-# **Zooplankton as Indicators Group (ZIG)**
 
 <br>
 
@@ -37,7 +36,7 @@ Here's a map of our submitted (blue) and expected (orange) datasets. We are stil
 
 <br>
 
-## Interesting in getting involved or submitting data?
+### **Interesting in getting involved or submitting data?**
 
 <br>
 
@@ -46,7 +45,7 @@ Please [reach out](https://sfigary.github.io/website/Contact.html)! ZIG is still
 
 <br>
 
-## Project log 
+### **Project log**
 
 <br>
 

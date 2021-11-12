@@ -1,5 +1,6 @@
 ---
 output: html_document
+title: Curriculum vitae
 ---
 
 ```{r setup, include=FALSE}
@@ -7,15 +8,10 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 <br>
-<br>
 
-# **Curriculum vitae**
+------
 
-<br>
-
----------
-
-## Education
+### **Education**
 
 <br>
 
@@ -32,7 +28,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ------
 
 
-## Professional Experience 
+### **Professional Experience**
 
 <br>
 
@@ -103,7 +99,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ------
 
-## Awards and Successful Grant Applications
+### **Awards and Successful Grant Applications**
 
 * IAGLR David M. Dolan Quantitative Ecology [Scholarship](http://iaglr.org/awards-scholarships/dolan-scholarship/). 2021.
 * Serve-in-Place. 2021. $700. [Vaccination Conversations with Scientists.](https://gradcareers.cornell.edu/opportunities/vaccination-conversations-with-scientists-vacs/) 
@@ -116,7 +112,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ------
 
-## Professional Societies
+### **Professional Societies**
 
 * Association for the Sciences of Limnology and Oceanography
 * Ecological Society of America
@@ -129,7 +125,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ------
 
-## Certifications and Workshops
+### **Certifications and Workshops**
 
 * Communications Boot Camp for Scientists. American Institute of Biological Sciences. Washington, D.C. (2017)
 * Certified Wetland Delineator, Rutgers University 

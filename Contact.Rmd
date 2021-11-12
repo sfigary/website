@@ -1,5 +1,6 @@
 ---
 output: html_document
+title: Contact
 ---
 
 ```{r setup, include=FALSE}
@@ -7,11 +8,10 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 <br>
-<br>
 
 <img src="Figary Stephanie IMG_2711.jpg" alt="Steph Figary" width="24%" align="left" hspace="20" vspace="20">
 
-# **Contact**
+
 
 <br>
 

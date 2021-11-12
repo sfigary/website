@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br>
 
-**Cornell University**: PhD candidate, Applied Ecology (projected finish: 2023)
+**Cornell University**: Doctor of Philosophy candidate in Applied Ecology (projected finish: 2023)
 
 **SUNY College of Environmental Science and Forestry**: Master of Science in Ecology (2013)
 
@@ -41,7 +41,7 @@ knitr::opts_chunk$set(echo = TRUE)
 **Graduate Research Assistant, Applied Ecology (2019 - present)**
 
 * Using long-term monitoring datasets to understand the lower trophic levels of the Great Lakes
-* Launched a Zooplankton as Indicators project in Nov 2019 (>100 participants from 28 countries) as part of the Global Lake Ecological Observatory Network to investigate the use of zooplankton as indicators with a global dataset
+* Launched a Zooplankton as Indicators ([ZIG](https://sfigary.github.io/website/ZIG.html)) project in Nov 2019 (>100 participants from 28 countries) as part of the Global Lake Ecological Observatory Network to investigate the use of zooplankton as indicators with a global dataset
 
 <br>
 

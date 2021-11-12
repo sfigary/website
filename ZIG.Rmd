@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <left>
 
-# Zooplankton as Indicators Group (ZIG)
+# **Zooplankton as Indicators Group (ZIG)**
 
 <br>
 
@@ -24,7 +24,7 @@ ZIG was formed in November 2019 at the Global Lake Ecological Observatory Networ
 
 2. **Publish a main synthesis paper:** The main goal of ZIG is to determine the reliability of existing zooplankton indicators (e.g., % calanoids) on a global scale using existing data from the GLEON network. This will be written and submitted as the ‘main synthesis paper’ that all participants are welcome to contribute to. 
 
-3. **Launch follow-up questions:** There are many additional questions that the ZIG global dataset can be used to answer about zooplankton as indicators. After the first two goals of the project are met, ZIG's focus will shift to the follow up questions that ZIG participants have outlined. We see the potential for these collaborations to continue well into the future.
+3. **Launch follow-up questions:** There are many additional questions that the ZIG global dataset can be used to answer about zooplankton as indicators. After the first two goals of the project are met, ZIG's focus will shift to the follow up questions that members have outlined. We see the potential for these collaborations to continue well into the future.
 
 Here's a map of our submitted (blue) and expected (orange) datasets. We are still looking for new collaborators in the regions without dataset coverage.
 

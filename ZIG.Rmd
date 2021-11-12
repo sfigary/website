@@ -1,10 +1,12 @@
 ---
+title: Zooplankton as Indicators Group (ZIG)
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
 
 <center>
 ![](Logo3.jpg){width=30%}

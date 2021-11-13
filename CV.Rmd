@@ -134,3 +134,62 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 <br>
+
+------
+
+### **Presentations**
+
+*	**Figary, S.**, K. Holeck, J. Watkins, and L. Rudstam. Comparing Lake Ontario’s nearshore and offshore zooplankton communities using long term monitoring datasets. Presentation.
+    + March 2021. State of Lake Ontario Conference. Virtual. 
+    + May 2021. International Association for Great Lakes Research Annual Conference. **David M. Dolan Quantitative Ecology Scholarship** presentation. Virtual. 
+    + September 2021. New York Department of Conservation Partner’s Meeting. Virtual. 
+
+*	**Figary, S.**, N. Detenbeck, and C. O’Donnell. Creating a high resolution spatial statistical network model to guide riparian restoration strategies in a transboundary watershed. Presentation.
+    + March 2020. Northeast Aquatic Biologists Conference. Newport, Rhode Island. **Best student presentation award.**
+    + April 2020. Vermont’s Department of Environmental Conservation Watershed Division. **Invited** webinar.
+    +  May 2020. Maine Stream Temperature Monitoring Working Group. **Invited** webinar.
+
+*	**Figary, S.**. Jan 2020. Exploring variability in the Great Lakes using lower trophic levels. Department of Natural Resources Symposium. Ithaca, New York. Presentation. 
+
+*	**Figary, S.**, L. G. Rudstam, and J. M. Watkins. Nov 2019. Determining zooplankton community response to changing water quality parameters in large lakes using Taxa Indicator Threshold ANalysis (TITAN). Global Lake Ecological Observatory Network All-Hands meeting. Huntsville, Canada. Poster.
+
+*	**Figary, S.**, N. Detenbeck, and C. O’Donnell. May 2019. Building a spatial statistical network model of stream temperature to guide restoration decisions in an international watershed. Society for Freshwater Science. Annual meeting. Salt Lake City, Utah. Presentation.
+
+*	**Figary, S.** and N. Detenbeck. May 2018. Intermittent and perennial stream macroinvertebrate community response to impervious cover: threshold indicator taxa analysis and permutations. Society for Freshwater Science. Annual meeting. Detroit, Michigan. Presentation. 
+
+*	**Figary, S.** and N. Detenbeck. June 2017. Evaluating macroinvertebrate community responses to impervious cover in California with threshold indicator taxa analysis. Society for Freshwater Science. Annual meeting. Raleigh, North Carolina. Presentation. 
+
+*	**Figary, S.** and N. Detenbeck. July 2016. Evaluating the effectiveness of best management practices and green infrastructure in the State of California. American Water Resources Association. Summer Specialty Conference: GIS and Water Resources IX. Sacramento, California. Poster. 
+
+*	Schulz, K. L. and **S. Figary**. November 2015. Establishment and effects of predatory invasive zooplankton in the food webs of the Finger Lakes and Great Lakes. Finger Lakes Research Conference: Threats to the Finger Lakes. Geneva, New York. Presentation.
+
+*	**Figary, S.** May 2015. A Creek in Crisis: Time for Action. Ambler, Pennsylvania. Presentation and panel discussion.
+
+*	**Figary, S.**  March 2015. Monitoring the Delaware Watershed Initiative. Saint Joesph University Stormwater Management Workshop. Philadelphia, Pennsylvania. Presentation.
+
+* Cooper, A, J. Musselman and **S. Figary**. March 2015. Streamkeepers from Scratch: Building a Volunteer Monitoring Program. Watershed Congress along the Schuylkill. Pottstown, Pennsylvania. Presentation.
+
+*	**Figary, S.**, A. Cooper, R. Eisman, P. Gardener, and B. Nyholm. January 2015. Using Citizen Scientists To Monitor Watershed Improvements In Five Philadelphia Area Watersheds. Delaware Estuary Science & Environmental Summit. Cape May, New Jersey. Poster presentation.
+
+*	**Figary, S.**,  K. L. Schulz, M. A. Teece, and L. G. Rudstam. April 2013. Why are half of New York Finger Lakes invaded by *Cercopagis pengoi*, while the other half have remained non-invaded for over a decade? Graduate Level Research Conference. Brockport, New York. Presentation.
+
+*	**Figary, S.**,  K. L. Schulz, M. A. Teece, and L. G. Rudstam. 2012. Unexpected effects of an invasive zooplankton, *Cercopagis pengoi*, on the trophic position of planktivorous fish, *Alsoa pseudoharengus*, in New York’s Finger Lakes. International Association of Great Lakes Research Conference. Cornwall, Ontario, Canada. Presentation.
+
+*	**Figary, S.**,  K. L. Schulz, M. A. Teece, and L. G. Rudstam. 2011. Investigating the impact of an invasive zooplankton, *Cercopagis pengoi*, on the length of food chains in New York's Finger Lakes. Spotlight-on-Research. Syracuse, New York. **Award winning poster.**
+
+* Hoover, C.,	**S. Figary,**, and K. L. Schulz.  2011. Invasive mussels in New York’s Finger Lakes: Are mussel demography, density and species composition correlated with lake nutrient concentrations? Spotlight-on-Research. Syracuse, New York. **Award winning poster.**
+
+*	**Figary, S.**, K. L. Schulz, M. A. Teece, and L. G. Rudstam.  Investigating the impact of an invasive zooplankton, *Cercopagis pengoi*, on the length of food chains in New York's Finger Lakes. Poster.
+    + Dec 2011. Great Lakes Research Consortium. Syracuse, New York. 
+    + Feb 2011. Association of the Sciences of Limnology and Oceanography Conference. San Juan, Puerto Rico.
+
+*	**Figary, S.** and K. L. Schulz. 2010. Exploiting a natural experiment: Investigating the impact of an invasive zooplankton, *Cercopagis pengoi*, on the food webs of the New York Finger Lakes. Finger Lakes Institute Conference. Geneva, New York. Poster.
+
+*	**Figary, S.** 2010. The impacts of invasive zooplankton, *Cercopagis pengoi*, on the food webs of the New York Finger Lakes. Aquabreak Seminar. Syracuse, New York.  Presentation.
+
+*	**Figary, S.** 2008. The deep chlorophyll layer of Lake Ontario. SUNY College at Brockport Scholar’s Day. Brockport, New York. Presentation.
+
+
+
+
+

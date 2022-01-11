@@ -92,7 +92,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 **Research Technician, Limnology (2007 - 2008)**
 
-* Analyzed water quality samples following Standard Operating Procedures, maintaining laboratory databases, and insuring Quality Assurance/Quality Control practices in accordance to NELAC
+* Analyzed water quality samples following Standard Operating Procedures, maintaining laboratory databases, and ensuring Quality Assurance/Quality Control practices in accordance to NELAC
 
 
 <br>
@@ -137,7 +137,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ------
 
-### **Presentations**
+### **Presentations (past ten years)**
 
 *	**Figary, S.**, K. Holeck, J. Watkins, and L. Rudstam. Comparing Lake Ontario’s nearshore and offshore zooplankton communities using long term monitoring datasets. Presentation.
     + March 2021. State of Lake Ontario Conference. Virtual. 
@@ -183,11 +183,15 @@ knitr::opts_chunk$set(echo = TRUE)
     + Dec 2011. Great Lakes Research Consortium. Syracuse, New York. 
     + Feb 2011. Association of the Sciences of Limnology and Oceanography Conference. San Juan, Puerto Rico.
 
-*	**Figary, S.** and K. L. Schulz. 2010. Exploiting a natural experiment: Investigating the impact of an invasive zooplankton, *Cercopagis pengoi*, on the food webs of the New York Finger Lakes. Finger Lakes Institute Conference. Geneva, New York. Poster.
+```{r, echo=FALSE}
+# *	**Figary, S.** and K. L. Schulz. 2010. Exploiting a natural experiment: Investigating the impact of an invasive zooplankton, *Cercopagis pengoi*, on the food webs of the New York Finger Lakes. Finger Lakes Institute Conference. Geneva, New York. Poster.
+# 
+# *	**Figary, S.** 2010. The impacts of invasive zooplankton, *Cercopagis pengoi*, on the food webs of the New York Finger Lakes. Aquabreak Seminar. Syracuse, New York.  Presentation.
+# 
+# *	**Figary, S.** 2008. The deep chlorophyll layer of Lake Ontario. SUNY College at Brockport Scholar’s Day. Brockport, New York. Presentation.
+```
 
-*	**Figary, S.** 2010. The impacts of invasive zooplankton, *Cercopagis pengoi*, on the food webs of the New York Finger Lakes. Aquabreak Seminar. Syracuse, New York.  Presentation.
 
-*	**Figary, S.** 2008. The deep chlorophyll layer of Lake Ontario. SUNY College at Brockport Scholar’s Day. Brockport, New York. Presentation.
 
 
 

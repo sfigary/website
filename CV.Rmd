@@ -139,15 +139,19 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### **Presentations (past ten years)**
 
+* **Figary, S.**, R. Barbiero, D. Kane, J. Hood, S. Ludsin, L. Rudstam, J. Watkins, and C. Winslow. 2022. Using zooplankton to track ecosystem condition in Lake Erie. State of Lake Erie Conference. Cleveland, Ohio. Presentation.
+
 *	**Figary, S.**, K. Holeck, J. Watkins, and L. Rudstam. Comparing Lake Ontario’s nearshore and offshore zooplankton communities using long term monitoring datasets. Presentation.
     + March 2021. State of Lake Ontario Conference. Virtual. 
     + May 2021. International Association for Great Lakes Research Annual Conference. **David M. Dolan Quantitative Ecology Scholarship** presentation. Virtual. 
     + September 2021. New York Department of Conservation Partner’s Meeting. Virtual. 
 
+
 *	**Figary, S.**, N. Detenbeck, and C. O’Donnell. Creating a high resolution spatial statistical network model to guide riparian restoration strategies in a transboundary watershed. Presentation.
     + March 2020. Northeast Aquatic Biologists Conference. Newport, Rhode Island. **Best student presentation award.**
     + April 2020. Vermont’s Department of Environmental Conservation Watershed Division. **Invited** webinar.
     +  May 2020. Maine Stream Temperature Monitoring Working Group. **Invited** webinar.
+
 
 *	**Figary, S.**. Jan 2020. Exploring variability in the Great Lakes using lower trophic levels. Department of Natural Resources Symposium. Ithaca, New York. Presentation. 
 
@@ -175,15 +179,15 @@ knitr::opts_chunk$set(echo = TRUE)
 
 *	**Figary, S.**,  K. L. Schulz, M. A. Teece, and L. G. Rudstam. 2012. Unexpected effects of an invasive zooplankton, *Cercopagis pengoi*, on the trophic position of planktivorous fish, *Alsoa pseudoharengus*, in New York’s Finger Lakes. International Association of Great Lakes Research Conference. Cornwall, Ontario, Canada. Presentation.
 
-*	**Figary, S.**,  K. L. Schulz, M. A. Teece, and L. G. Rudstam. 2011. Investigating the impact of an invasive zooplankton, *Cercopagis pengoi*, on the length of food chains in New York's Finger Lakes. Spotlight-on-Research. Syracuse, New York. **Award winning poster.**
-
-* Hoover, C.,	**S. Figary,**, and K. L. Schulz.  2011. Invasive mussels in New York’s Finger Lakes: Are mussel demography, density and species composition correlated with lake nutrient concentrations? Spotlight-on-Research. Syracuse, New York. **Award winning poster.**
-
-*	**Figary, S.**, K. L. Schulz, M. A. Teece, and L. G. Rudstam.  Investigating the impact of an invasive zooplankton, *Cercopagis pengoi*, on the length of food chains in New York's Finger Lakes. Poster.
-    + Dec 2011. Great Lakes Research Consortium. Syracuse, New York. 
-    + Feb 2011. Association of the Sciences of Limnology and Oceanography Conference. San Juan, Puerto Rico.
-
 ```{r, echo=FALSE}
+# *	**Figary, S.**,  K. L. Schulz, M. A. Teece, and L. G. Rudstam. 2011. Investigating the impact of an invasive zooplankton, *Cercopagis pengoi*, on the length of food chains in New York's Finger Lakes. Spotlight-on-Research. Syracuse, New York. **Award winning poster.**
+# 
+# * Hoover, C.,	**S. Figary,**, and K. L. Schulz.  2011. Invasive mussels in New York’s Finger Lakes: Are mussel demography, density and species composition correlated with lake nutrient concentrations? Spotlight-on-Research. Syracuse, New York. **Award winning poster.**
+# 
+# *	**Figary, S.**, K. L. Schulz, M. A. Teece, and L. G. Rudstam.  Investigating the impact of an invasive zooplankton, *Cercopagis pengoi*, on the length of food chains in New York's Finger Lakes. Poster.
+#     + Dec 2011. Great Lakes Research Consortium. Syracuse, New York. 
+#     + Feb 2011. Association of the Sciences of Limnology and Oceanography Conference. San Juan, Puerto Rico.
+
 # *	**Figary, S.** and K. L. Schulz. 2010. Exploiting a natural experiment: Investigating the impact of an invasive zooplankton, *Cercopagis pengoi*, on the food webs of the New York Finger Lakes. Finger Lakes Institute Conference. Geneva, New York. Poster.
 # 
 # *	**Figary, S.** 2010. The impacts of invasive zooplankton, *Cercopagis pengoi*, on the food webs of the New York Finger Lakes. Aquabreak Seminar. Syracuse, New York.  Presentation.

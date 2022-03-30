@@ -17,6 +17,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 **Cornell University**: Doctor of Philosophy candidate in Applied Ecology (projected finish: 2023)
 
+* Concentrations: Fishery & Aquatic Sciences, Quantitative Ecology, and Human Dimensions to Natural Resource Management
+
 **SUNY College of Environmental Science and Forestry**: Master of Science in Ecology (2013)
 
 **Maxwell School of Citizenship at Syracuse University**: Master of Public Administration (2013)

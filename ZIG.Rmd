@@ -27,7 +27,7 @@ ZIG was formed in November 2019 at the Global Lake Ecological Observatory Networ
 
 3. **Launch follow-up questions:** There are many additional questions that the ZIG global dataset can be used to answer about zooplankton as indicators. After the first two goals of the project are met, ZIG's focus will shift to the follow up questions that members have outlined. We see the potential for these collaborations to continue well into the future.
 
-Here's a map of our submitted (blue) and expected (orange) datasets. We are still looking for new collaborators in the regions without dataset coverage.
+Here's a map of our submitted (blue) and expected (orange) datasets. We are still looking for new collaborators in the regions with poor dataset coverage.
 
 <center>
 ![](map_5Oct2021.jpeg){width=80%}
@@ -40,7 +40,7 @@ Here's a map of our submitted (blue) and expected (orange) datasets. We are stil
 
 <br>
 
-Please [reach out](https://sfigary.github.io/website/Contact.html)! ZIG is still accepting new members and datasets. Submitting data is not required for joining the effort. Additionally, we have materials to share on on request, including the authorship guidelines/data sharing policy, meeting materials (see table below), data submission template, and data submission instructions. 
+Please [reach out](https://sfigary.github.io/website/Contact.html)! While ZIG has closed its data call, we are still accepting new members and datasets from regions with poor dataset coverage. Submitting data is not required for joining the effort. Additionally, we have materials to share on on request, including the authorship guidelines/data sharing policy, meeting materials (see table below), data submission template, and data submission instructions. 
 
 
 <br>

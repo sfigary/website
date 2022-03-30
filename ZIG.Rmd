@@ -30,7 +30,7 @@ ZIG was formed in November 2019 at the Global Lake Ecological Observatory Networ
 Here's a map of our submitted (blue) and expected (orange) datasets. We are still looking for new collaborators in the regions with poor dataset coverage.
 
 <center>
-![](map_5Oct2021.jpeg){width=80%}
+![](map_30march2022.jpeg){width=80%}
 
 </center>
 

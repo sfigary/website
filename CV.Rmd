@@ -141,7 +141,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### **Presentations (past ten years)**
 
-* **Figary, S.**, R. Barbiero, D. Kane, J. Hood, S. Ludsin, L. Rudstam, J. Watkins, and C. Winslow. 2022. Using zooplankton to track ecosystem condition in Lake Erie. State of Lake Erie Conference. Cleveland, Ohio. Presentation.
+* **Figary, S.**, K. Holeck, J. M. Watkins, L. G. Rudstam. May 2022. The nearshore habitat of large lakes may be an early indicator of future offshore changes. Joint Aquatic Sciences Meeting. Grand Rapids, Michigan. Presentation.
+
+* Kovalenko, K., E. D. Reavie, **Figary, S.**, L. G. Rudstam, J. M. Watkins, C. T. Filstrup. May 2022. Zooplankton-phytoplankton relationships in the Great Lakes. Joint Aquatic Sciences Meeting. Grand Rapids, Michigan. Presentation.
+
+* Scofield, A., J. M. Watkins, **Figary, S.**, J. E. Lietz, L. G. Rudstam. May 2022. Insights from extensive zooplankton length data from a long-term monitoring program. Joint Aquatic Sciences Meeting. Grand Rapids, Michigan. Presentation.
+
+* **Figary, S.**, R. Barbiero, D. Kane, J. Hood, S. Ludsin, L. Rudstam, J. Watkins, and C. Winslow. March 2022. Using zooplankton to track ecosystem condition in Lake Erie. State of Lake Erie Conference. Cleveland, Ohio. Presentation. 
 
 *	**Figary, S.**, K. Holeck, J. Watkins, and L. Rudstam. Comparing Lake Ontario’s nearshore and offshore zooplankton communities using long term monitoring datasets. Presentation.
     + March 2021. State of Lake Ontario Conference. Virtual. 
@@ -179,9 +185,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 *	**Figary, S.**,  K. L. Schulz, M. A. Teece, and L. G. Rudstam. April 2013. Why are half of New York Finger Lakes invaded by *Cercopagis pengoi*, while the other half have remained non-invaded for over a decade? Graduate Level Research Conference. Brockport, New York. Presentation.
 
-*	**Figary, S.**,  K. L. Schulz, M. A. Teece, and L. G. Rudstam. 2012. Unexpected effects of an invasive zooplankton, *Cercopagis pengoi*, on the trophic position of planktivorous fish, *Alsoa pseudoharengus*, in New York’s Finger Lakes. International Association of Great Lakes Research Conference. Cornwall, Ontario, Canada. Presentation.
 
 ```{r, echo=FALSE}
+
+# *	**Figary, S.**,  K. L. Schulz, M. A. Teece, and L. G. Rudstam. 2012. Unexpected effects of an invasive zooplankton, *Cercopagis pengoi*, on the trophic position of planktivorous fish, *Alsoa pseudoharengus*, in New York’s Finger Lakes. International Association of Great Lakes Research Conference. Cornwall, Ontario, Canada. Presentation.
+
 # *	**Figary, S.**,  K. L. Schulz, M. A. Teece, and L. G. Rudstam. 2011. Investigating the impact of an invasive zooplankton, *Cercopagis pengoi*, on the length of food chains in New York's Finger Lakes. Spotlight-on-Research. Syracuse, New York. **Award winning poster.**
 # 
 # * Hoover, C.,	**S. Figary,**, and K. L. Schulz.  2011. Invasive mussels in New York’s Finger Lakes: Are mussel demography, density and species composition correlated with lake nutrient concentrations? Spotlight-on-Research. Syracuse, New York. **Award winning poster.**

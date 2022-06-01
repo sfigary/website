@@ -13,8 +13,8 @@
 
 <title>Zooplankton as Indicators Group (ZIG)</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
-<script src="site_libs/jquery-3.5.1/jquery-3.5.1.min.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/sandstone.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -62,6 +62,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -82,6 +83,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -234,7 +238,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -311,11 +315,11 @@ $(document).ready(function () {
 <p><br></p>
 <p>ZIG was formed in November 2019 at the Global Lake Ecological
 Observatory Network <a href="https://gleon.org/">GLEON</a> all-hands
-meeting in Huntsville, Canada with three co-leads (Steph Figary, Michael
-Meyer, and Warren Currie) and has since grown to a team of over 100
-aquatic scientists from around the world interested in understanding the
-uses of zooplankton as indicators in lakes and reservoirs. This project
-has several goals:</p>
+meeting in Huntsville, Canada with three co-champions (Steph Figary,
+Michael Meyer, and Warren Currie) and has since grown to a team of over
+130 aquatic scientists from around the world interested in understanding
+the uses of zooplankton as indicators in lakes and reservoirs. This
+project has several goals:</p>
 <ol style="list-style-type: decimal">
 <li><p><strong>Develop a global dataset:</strong> Our goal is to develop
 a global zooplankton dataset to test which aspects of zooplankton
@@ -326,9 +330,10 @@ submitted datasets using github, ZIG will publish a data product with
 the data that can be made public.</p></li>
 <li><p><strong>Publish a main synthesis paper:</strong> The main goal of
 ZIG is to determine the reliability of existing zooplankton indicators
-(e.g., % calanoids) on a global scale using existing data from the GLEON
-network. This will be written and submitted as the ‘main synthesis
-paper’ that all participants are welcome to contribute to.</p></li>
+(e.g. % calanoids as an indicator of lake trophic state) on a global
+scale using existing data from the GLEON network. This will be written
+and submitted as the ‘main synthesis paper’ that all participants are
+welcome to contribute to.</p></li>
 <li><p><strong>Launch follow-up questions:</strong> There are many
 additional questions that the ZIG global dataset can be used to answer
 about zooplankton as indicators. After the first two goals of the
@@ -336,11 +341,11 @@ project are met, ZIG’s focus will shift to the follow up questions that
 members have outlined. We see the potential for these collaborations to
 continue well into the future.</p></li>
 </ol>
-<p>Here’s a map of our submitted (blue) and expected (orange) datasets.
-We are still looking for new collaborators in the regions with poor
-dataset coverage.</p>
+<p>Here’s a map of our submitted (blue, &gt;270 lakes) and expected
+(orange, &lt;10) datasets. We are still looking for new collaborators in
+the regions with poor dataset coverage.</p>
 <center>
-<p><img src="map_30march2022.jpeg" style="width:80.0%" /></p>
+<p><img src="ZIG_map_20220601.jpeg" style="width:80.0%" /></p>
 </center>
 <p><br></p>
 <div id="interesting-in-getting-involved-or-submitting-data"
@@ -375,14 +380,14 @@ data submission template, and data submission instructions.</p>
 </thead>
 <tbody>
 <tr class="odd">
-<td align="left">TBD</td>
+<td align="left">22-Sep</td>
 <td align="left">Finish dataset harmonization</td>
-<td align="left"></td>
+<td align="left">Volunteers needed! Please contact Steph</td>
 </tr>
 <tr class="even">
 <td align="left">22-Jan</td>
 <td align="left">Data call closed</td>
-<td align="left">January 31st</td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
 <td align="left">21-Nov</td>
@@ -452,6 +457,44 @@ harmonization team</td>
 </tr>
 </tbody>
 </table>
+</div>
+<div id="current-project-participants" class="section level3">
+<h3><strong>Current project participants</strong></h3>
+<p>Co-champions: Steph Figary, Michael Meyer, and Warren Currie</p>
+<p>Participants: Rita Adrian, Javier Alcocer, María Belén Alfonso,
+Orlane Anneville, Carmen Archambault, Shelley Arnott, Rosinska Asia,
+Anita Galir Balkić, Arnab Banerjee, Lauren Barth, John Beaver, Stella A.
+Berger, Jessica Beyer, Ruchi Bhattacharya, Lorena Biouni, Kätlin Blank,
+Kelly Bowen, Matthew Brousil, Rosalie Bruel, Sarah Burnet, Cayelan
+Carey, Mike Carey, Rossana Caroni, Sudeep Chandra, Ariana Chiapella,
+Kirsten Seestern Christoffersen, Pablo Urrutia Cordero, Cristina
+Crispim, Curtis DeGasperi, Jianming Deng, Jean-Pierre Descy, Inta
+Dimante-Deimantoviča, Nadia Diovisalvi, Renata Dondajewska-Pielka,
+Jonathan Doubek, Tvrtko Dražina, Gaël Dur, Brie Edwards, Mariam
+Elmarsafy, Oxana Erina, Elvira de Eyto, Rocio Fernandez, Heidrun
+Feuchtmayr, Janet Fischer, María Soledad Fontanarrosa, László G.-Tóth,
+Bernát Gábor, Evelyn Gaiser, Gideon Gal, Javier Garcia de Souza, Ali
+Ger, Ana Maria Antão-Geraldes, Ryszard Gołdyn, Hans-Peter Grossart, Dave
+Hambright, David Hamilton, Yvonne Hammond, Susan Hendricks, Meredith
+Holgerson, Bas Ibelings, Lia Ivanick, Stéphan Jacquet, Martin Kainz,
+Maciej Karpowicz, Sami Khan, Jan Köhler, Katarzyna Kowalczewska-Madura,
+Keerthi Krutha, Natalia Kuczyńska-Kippen, Silke Langenheder, Brian
+Lanouette, Barbara Leoni, Fabio Lepori, Jaakko Leppänen, Arni H Litt,
+Eleanor Mackay, Marina Manca, Irina Mashkova, Ichiro (Shin-ichiro)
+Matsuzaki, Valerie McCarthy, Rosemberg Menezes, Ewa Merz, Evangelia
+Michaloudi, Galilee Miles, Seda Mirek, Jannicke Moe, Florencia Rojas
+Molina, Samuel Motitsoe, Doerthe Mueller-Navarra, Veronica Nava, Jens
+Nejstgaard, Ulrike Obertegger, Luis Alberto Oseguera Pérez, Maria
+Caldero Pascual, Martina Patelli, Michael Paterson, María Cintia
+Piccolo, Roberta Piscia, Serena Rasconi, Ashley Rawhouser, Brian Reid,
+Lars Rudstam, James Rusak, Elizabeth Ryder, Nico Salmaso, Jouko Sarvala,
+Anna Schmidt, Matthew Schuler, Kim Schulz, Anne Scofield, Facundo
+Scordo, Jason Stockwell, Dietmar Straile, Angela Strecker, Hilary Swain,
+Celia Symons, Andrew Tanentzap, Barbara Tartarotti, Stephen Thackeray,
+Wim Thiery, Maxim Timofeyev, Jörg Tittel, Reliana Lumban Toruan, Piet
+Verburg, Nicholas Walling, Heather Wander, James Watkins, David White,
+Katharina Winter, Sabine Wollrab, Vivian Yorojo, Horacio Zagarese, Petr
+Znachor</p>
 </div>
 
 

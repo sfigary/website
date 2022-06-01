@@ -29,7 +29,7 @@ I am co-leading a project on zooplankton as ecosystem indicators ([ZIG](https://
 
 ### **Understanding lower trophic levels in the Great Lakes**
 
-I am improving the usability of long-term existing data from the United States Environmental Protection Agency’s [Biological Monitoring Program](https://www.epa.gov/great-lakes-monitoring/great-lakes-biology-monitoring-program) and [Cooperative Science and Monitoring Initiative](https://www.epa.gov/great-lakes-monitoring/cooperative-science-and-monitoring-initiative-csmi) to better understand the Great Lakes and how policies have impacted the lower trophic levels over time. I will use this data to determine (1) if the nearshore and the offshore of Lake Ontario should be treated as different habitat types when developing lake-wide nutrient targets, (2) how the zooplankton community composition and abundance has changed, and (3) the most robust use of zooplankton as ecosystem indicators based on past performance. 
+I am using long-term existing data from the United States Environmental Protection Agency’s [Biological Monitoring Program](https://www.epa.gov/great-lakes-monitoring/great-lakes-biology-monitoring-program) to better understand the Great Lakes and how lower trophic levels have changed over time. I use this data to determine (1) if the nearshore and the offshore of Lake Ontario should be treated as different habitat types and if the habitats changed similarly over time, (2) if the precentage of the zooplankton community available for fish consumption has changed over time, and (3) the most robust use of zooplankton as ecosystem indicators based on past performance. 
 
 
 <br>

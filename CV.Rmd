@@ -129,7 +129,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### **Certifications and Workshops**
 
-* Communications Boot Camp for Scientists. American Institute of Biological Sciences. Washington, D.C. (2017)
+* Colman Inclusive Leadership  [Program.](https://gradschool.cornell.edu/diversity-inclusion/signature-initiatives/colman-leadership-program/) Ithaca, N.Y.
+* Communications Boot Camp for Scientists. American Institute of Biological Sciences. Washington, D.C. 
 * Certified Wetland Delineator, Rutgers University 
 * Open Water Dive and Dry Suit Certified
 * New York Boater Safety Course

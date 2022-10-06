@@ -19,7 +19,7 @@ I am passionate about understanding freshwater ecosystems to protect and manage 
 
 ### **Zooplankton as global ecosystem indicators**
 
-I am co-leading a project on zooplankton as ecosystem indicators ([ZIG](https://sfigary.github.io/website/ZIG.html)) as part of the Global Lake Ecological Observatory Network ([GLEON](https://gleon.org/)) with over 100 aquatic researchers from around the world. Our first project will determine the effectiveness of existing zooplankton metrics (e.g., % calanoids) using a global dataset that ZIG is creating. Results from this research will provide guidance on using zooplankton as indicators in geographic regions and lake types. Look [here](https://sfigary.github.io/website/ZIG.html) to learn more about this effort and getting involved.
+I am co-leading a project on zooplankton as ecosystem indicators ([ZIG](https://sfigary.github.io/website/ZIG.html)) as part of the Global Lake Ecological Observatory Network ([GLEON](https://gleon.org/)) with over 140 aquatic researchers from around the world. Our first project will determine the effectiveness of existing zooplankton metrics (e.g., % calanoids) using a global dataset that ZIG is creating. Results from this research will provide guidance on using zooplankton as indicators in geographic regions and lake types. Look [here](https://sfigary.github.io/website/ZIG.html) to learn more about this effort and getting involved.
 
 <br>
 

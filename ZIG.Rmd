@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = TRUE)
 <br>
 
 
-ZIG was formed in November 2019 at the Global Lake Ecological Observatory Network [GLEON](https://gleon.org/) all-hands meeting in Huntsville, Canada with three co-champions (Steph Figary, Michael Meyer, and Warren Currie) and has since grown to a team of over 130 aquatic scientists from around the world interested in understanding the uses of zooplankton as indicators in lakes and reservoirs. This project has several goals:
+ZIG was formed in November 2019 at the Global Lake Ecological Observatory Network [GLEON](https://gleon.org/) all-hands meeting in Huntsville, Canada with three co-champions (Steph Figary, Michael Meyer, and Warren Currie) and has since grown to a team of over 140 aquatic scientists from around the world interested in understanding the uses of zooplankton as indicators in lakes and reservoirs. This project has several goals:
 
 1. **Develop a global dataset:** Our goal is to develop a global zooplankton dataset to test which aspects of zooplankton community structure are the most sensitive, and widely applicable, indicators of environmental change. ZIG’s data call to GLEON can be found [here](ZIG_datacall.pdf). After harmonizing all of the submitted datasets using github, ZIG will publish a data product with the data that can be made public.
 

@@ -39,7 +39,7 @@ knitr::opts_chunk$set(echo = TRUE)
 **Graduate Research Assistant, Applied Ecology (2019 - present)**
 
 * Using long-term monitoring datasets to understand the lower trophic levels of the Great Lakes
-* Launched a Zooplankton as Indicators ([ZIG](https://sfigary.github.io/website/ZIG.html)) project in Nov 2019 (>100 participants from 28 countries) as part of the Global Lake Ecological Observatory Network to investigate the use of zooplankton as indicators with a global dataset
+* Launched a Zooplankton as Indicators ([ZIG](https://sfigary.github.io/website/ZIG.html)) project in Nov 2019 (>140 participants) as part of the Global Lake Ecological Observatory Network to investigate the use of zooplankton as indicators with a global dataset ([L&O Community News](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lob.10515)). 
 
 <br>
 
@@ -103,6 +103,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### **Awards and Successful Grant Applications**
 
+* USGS John Wesley Powell Center for Analysis and Synthesis funding working group titled ["Synthesizing patterns and drivers of changes in lake zooplankton community dynamics worldwide"](https://www.usgs.gov/centers/john-wesley-powell-center-for-analysis-and-synthesis/science/synthesizing-patterns-and)
 * IAGLR David M. Dolan Quantitative Ecology [Scholarship](http://iaglr.org/awards-scholarships/dolan-scholarship/). 2021.
 * Serve-in-Place. 2021. $700. [Vaccination Conversations with Scientists.](https://gradcareers.cornell.edu/opportunities/vaccination-conversations-with-scientists-vacs/) 
 * WVWA. Growing Greener. 2015. $369,600. Stream restoration.

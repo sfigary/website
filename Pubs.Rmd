@@ -11,6 +11,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### **Journal articles**
 
+**Figary, S. E.**, M. F. Meyer, W. J. S. Currie, and ZIG Participants. 2022. Building a worldwide freshwater zooplankton dataset to synthesis patterns of zooplankton community structure and change.  Limnology and Oceanography Bulletin. Community News. https://doi.org/10.1002/lob.10515. [Read](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lob.10515).
+
 **Figary, S. E.** and K. L. Schulz. 2021 Spines and surplus: Existing inducible defenses and abundant resources may reduce the impacts of *Cercopagis pengoi* on a likely prey species. Aquatic Invasions. 16(3): 461–481, https://doi.org/10.3391/ai. 2021.16.3.05. [Read](https://www.reabic.net/aquaticinvasions/2021/issue3.aspx).
 
 **Figary, S.,** N. Detenbeck, and C. O'Donnell. 2021. Guiding riparian management in a transboundary watershed through high resolution spatial statistical network models. Journal of Environmental Management. 278(2): 111585. DOI: 10.1016/j.jenvman.2020.111585. [Read](http://www.sciencedirect.com/science/article/pii/S0301479720315103)

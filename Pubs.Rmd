@@ -30,7 +30,7 @@ Kring, S. A., **S. E. Figary,** G. L. Boyer, S. B. Watson, and M. R. Twiss. 2014
 
 Kovalenko K., E. D. Reavie, **S. Figary**, L. G. Rudstam, J. M. Watkins, A. Scofield, C. T. Filstrup. Zooplankton-phytoplankton biomass and diversity relationships in the Great Lakes. PLOS ONE. (under review)
 
-Jordan, P.D.B., **S. E. Figary**, T. E. Brooking, K. T. Holeck, C. W. Hotaling, A. J. VanDeValk, L. G. Rudstam. Ecology of Freshwater Fish. (under review)
+Jordan, P.D.B., **S. E. Figary**, T. E. Brooking, K. T. Holeck, C. W. Hotaling, A. J. VanDeValk, L. G. Rudstam. The effects of Bythotrephes longimanus invasion on diets and growth of age-0 yellow perch in Oneida Lake, New York. Ecology of Freshwater Fish. (under review)
 
 **Figary, S.**, P. DeWitt and N. Detenbeck. pTITAN2: Permutation of Treatment Labels and Threshold Indicator Taxa ANalysis. F1000Research. [In open review](https://f1000research.com/articles/11-267/pdf)
 

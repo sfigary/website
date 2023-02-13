@@ -143,6 +143,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### **Presentations (past ten years)**
 
+*  Bruel, R., Z. Ersoy and others including **S. Figary**. Oct 2022. ZooSize – Crustacean zooplankton community size distribution across a worldwide set of freshwater lakes. GLEON All-hands meeting. Lake George, New York. Poster.
+
+* Jordan, P. D., **S. Figary**, C. Hotaling, A. VanDeValk, T. Brooking, L. Rudstam. Sept 2022.  Invasive Bythotrephes longimanus are selected by Age-0 Yellow Perch and do not negatively affect perch growth. PERCIS V, Biology of Percid Fishes. Ceske Budejovice, Czech Republic. Presentation.
+
 * **Figary, S.**, K. Holeck, J. M. Watkins, L. G. Rudstam. May 2022. The nearshore habitat of large lakes may be an early indicator of future offshore changes. Joint Aquatic Sciences Meeting. Grand Rapids, Michigan. Presentation.
 
 * Kovalenko, K., E. D. Reavie, **Figary, S.**, L. G. Rudstam, J. M. Watkins, C. T. Filstrup. May 2022. Zooplankton-phytoplankton relationships in the Great Lakes. Joint Aquatic Sciences Meeting. Grand Rapids, Michigan. Presentation.
@@ -150,6 +154,8 @@ knitr::opts_chunk$set(echo = TRUE)
 * Scofield, A., J. M. Watkins, **Figary, S.**, J. E. Lietz, L. G. Rudstam. May 2022. Insights from extensive zooplankton length data from a long-term monitoring program. Joint Aquatic Sciences Meeting. Grand Rapids, Michigan. Presentation.
 
 * **Figary, S.**, R. Barbiero, D. Kane, J. Hood, S. Ludsin, L. Rudstam, J. Watkins, and C. Winslow. March 2022. Using zooplankton to track ecosystem condition in Lake Erie. State of Lake Erie Conference. Cleveland, Ohio. Presentation. 
+
+* Watkins, J., L. Rudstam, **S. Figary**, W. Currie, K. Bowen. March 2022. Seasonal succession of zooplankton in Lake Erie in 2019. State of Lake Erie Conference. Cleveland, Ohio. Presentation. 
 
 *	**Figary, S.**, K. Holeck, J. Watkins, and L. Rudstam. Comparing Lake Ontario’s nearshore and offshore zooplankton communities using long term monitoring datasets. Presentation.
     + March 2021. State of Lake Ontario Conference. Virtual. 

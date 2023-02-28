@@ -143,7 +143,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### **Presentations (past ten years)**
 
-**Figary, S.**, J. M. Watkins, L. G. Rudstam. Jan 2023. Zooplankton indicator development for Erie, Great Lakes, and globally. Department of Natural Resources Symposium. Ithaca, New York. Presentation.
+*  **Figary, S.**, J. M. Watkins, L. G. Rudstam. Jan 2023. Zooplankton indicator development for Erie, Great Lakes, and globally. Department of Natural Resources Symposium. Ithaca, New York. Presentation.
 
 *  Bruel, R., Z. Ersoy and others including **S. Figary**. Nov 2022. ZooSize – Crustacean zooplankton community size distribution across a worldwide set of freshwater lakes. GLEON All-hands meeting. Lake George, New York. Poster.
 

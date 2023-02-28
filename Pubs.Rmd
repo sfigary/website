@@ -11,6 +11,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### **Journal articles**
 
+**Figary, S.**, K. Holeck, C. Hotaling, J. Watkins, J. Lantry, M. Connerton, S. Prindle, Z. Biesinger, B. O’Malley, L. Rudstam. 2023. Lake Ontario’s nearshore zooplankton: Community composition changes and comparisons to the offshore. Journal of Great Lakes Research. Accepted.
+
 **Figary, S. E.**, M. F. Meyer, W. J. S. Currie, and ZIG Participants. 2022. Building a worldwide freshwater zooplankton dataset to synthesis patterns of zooplankton community structure and change.  Limnology and Oceanography Bulletin. Community News. https://doi.org/10.1002/lob.10515. [Read](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lob.10515).
 
 **Figary, S. E.** and K. L. Schulz. 2021 Spines and surplus: Existing inducible defenses and abundant resources may reduce the impacts of *Cercopagis pengoi* on a likely prey species. Aquatic Invasions. 16(3): 461–481, https://doi.org/10.3391/ai. 2021.16.3.05. [Read](https://www.reabic.net/aquaticinvasions/2021/issue3.aspx).
@@ -26,13 +28,9 @@ Kring, S. A., **S. E. Figary,** G. L. Boyer, S. B. Watson, and M. R. Twiss. 2014
 
 ### **Manuscripts in preparation**
 
-**Figary, S.**, J. M. Watkins, L. G. Rudstam. Jan 2023. Zooplankton indicator development for Erie, Great Lakes, and globally. Department of Natural Resources Symposium. Ithaca, New York. Presentation.
-
-**Figary, S.**, K. Holeck, C. Hotaling, J. Watkins, J. Lantry, M. Connerton, S. Prindle, Z. Biesinger, B. O’Malley, L. Rudstam. Lake Ontario’s nearshore zooplankton: Community composition changes and comparisons to the offshore. Journal of Great Lakes Research (under revision).
+Jordan, P.D.B., **S. E. Figary**, T. E. Brooking, K. T. Holeck, C. W. Hotaling, A. J. VanDeValk, L. G. Rudstam. The effects of Bythotrephes longimanus invasion on diets and growth of age-0 yellow perch in Oneida Lake, New York. Ecology of Freshwater Fish. (in revision)
 
 Kovalenko K., E. D. Reavie, **S. Figary**, L. G. Rudstam, J. M. Watkins, A. Scofield, C. T. Filstrup. Zooplankton-phytoplankton biomass and diversity relationships in the Great Lakes. PLOS ONE. (under review)
-
-Jordan, P.D.B., **S. E. Figary**, T. E. Brooking, K. T. Holeck, C. W. Hotaling, A. J. VanDeValk, L. G. Rudstam. The effects of Bythotrephes longimanus invasion on diets and growth of age-0 yellow perch in Oneida Lake, New York. Ecology of Freshwater Fish. (under review)
 
 **Figary, S.**, P. DeWitt and N. Detenbeck. pTITAN2: Permutation of Treatment Labels and Threshold Indicator Taxa ANalysis. F1000Research. [In open review](https://f1000research.com/articles/11-267/pdf)
 

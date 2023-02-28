@@ -143,7 +143,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### **Presentations (past ten years)**
 
-*  Bruel, R., Z. Ersoy and others including **S. Figary**. Oct 2022. ZooSize – Crustacean zooplankton community size distribution across a worldwide set of freshwater lakes. GLEON All-hands meeting. Lake George, New York. Poster.
+**Figary, S.**, J. M. Watkins, L. G. Rudstam. Jan 2023. Zooplankton indicator development for Erie, Great Lakes, and globally. Department of Natural Resources Symposium. Ithaca, New York. Presentation.
+
+*  Bruel, R., Z. Ersoy and others including **S. Figary**. Nov 2022. ZooSize – Crustacean zooplankton community size distribution across a worldwide set of freshwater lakes. GLEON All-hands meeting. Lake George, New York. Poster.
 
 * Jordan, P. D., **S. Figary**, C. Hotaling, A. VanDeValk, T. Brooking, L. Rudstam. Sept 2022.  Invasive Bythotrephes longimanus are selected by Age-0 Yellow Perch and do not negatively affect perch growth. PERCIS V, Biology of Percid Fishes. Ceske Budejovice, Czech Republic. Presentation.
 

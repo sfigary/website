@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 **Figary, S. E.**, K. Holeck, C. Hotaling, J. Watkins, J. Lantry, M. Connerton, S. Prindle, Z. Biesinger, B. O’Malley, L. Rudstam. 2023. Lake Ontario’s nearshore zooplankton: Community composition changes and comparisons to the offshore. Journal of Great Lakes Research. In press. [Read](https://doi.org/10.1016/j.jglr.2023.02.013).
 
-Jordan, P. D. B., **S. E. Figary**, T. E. Brooking, K. T. Holeck, C. W. Hotaling, A. J. VanDeValk, L. G. Rudstam. 2023. The effects of *Bythotrephes longimanus* invasion on diets and growth of age-0 yellow perch in Oneida Lake, New York. Ecology of Freshwater Fish. Accepted.
+Jordan, P. D. B., **S. E. Figary**, T. E. Brooking, K. T. Holeck, C. W. Hotaling, A. J. VanDeValk, L. G. Rudstam. 2023. The effects of *Bythotrephes longimanus* invasion on diets and growth of age-0 yellow perch in Oneida Lake, New York. Ecology of Freshwater Fish. In press. [Read](https://doi.org/10.1111/eff.12717).
 
 **Figary, S. E.**, M. F. Meyer, W. J. S. Currie, and ZIG Participants. 2022. Building a worldwide freshwater zooplankton dataset to synthesis patterns of zooplankton community structure and change.  Limnology and Oceanography Bulletin. Community News. [Read](https://doi.org/10.1002/lob.10515).
 

@@ -19,7 +19,7 @@ I am passionate about understanding freshwater ecosystems to protect and manage 
 
 ### **Zooplankton as global ecosystem indicators**
 
-I am co-leading a project on zooplankton as ecosystem indicators ([ZIG](https://sfigary.github.io/website/ZIG.html)) as part of the Global Lake Ecological Observatory Network ([GLEON](https://gleon.org/)) with over 140 aquatic researchers from around the world. Our first project will determine the effectiveness of existing zooplankton metrics (e.g., % calanoids) using a global dataset that ZIG is creating. Results from this research will provide guidance on using zooplankton as indicators in geographic regions and lake types. Look [here](https://sfigary.github.io/website/ZIG.html) to learn more about this effort and getting involved.
+I am co-leading a project on zooplankton as ecosystem indicators ([ZIG](https://sfigary.github.io/website/ZIG.html)) as part of the Global Lake Ecological Observatory Network ([GLEON](https://gleon.org/)) with over 165 aquatic researchers from around the world. Our first project will determine the effectiveness of existing zooplankton metrics (e.g., % calanoids) using a global dataset that ZIG is creating. Results from this research will provide guidance on using zooplankton as indicators in geographic regions and lake types. Look [here](https://sfigary.github.io/website/ZIG.html) to learn more about this effort and getting involved.
 
 <br>
 
@@ -29,7 +29,7 @@ I am co-leading a project on zooplankton as ecosystem indicators ([ZIG](https://
 
 ### **Understanding lower trophic levels in the Great Lakes**
 
-I am using long-term existing data from the United States Environmental Protection Agency’s [Biological Monitoring Program](https://www.epa.gov/great-lakes-monitoring/great-lakes-biology-monitoring-program) to better understand the Great Lakes and how lower trophic levels have changed over time. I use this data to determine (1) if the nearshore and the offshore of Lake Ontario should be treated as different habitat types and if the habitats changed similarly over time, (2) if the precentage of the zooplankton community available for fish consumption has changed over time, and (3) the most robust use of zooplankton as ecosystem indicators based on past performance. 
+I used long-term existing data from the United States Environmental Protection Agency’s [Biological Monitoring Program](https://www.epa.gov/great-lakes-monitoring/great-lakes-biology-monitoring-program) to better understand the Great Lakes and how lower trophic levels have changed over time. I used this data to determine (1) if the nearshore and the offshore of Lake Ontario should be treated as different habitat types and if the habitats changed similarly over time and (2) determined the most robust use of zooplankton as ecosystem indicators based on past performance. 
 
 
 <br>

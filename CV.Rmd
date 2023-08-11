@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br>
 
-**Cornell University**: Doctor of Philosophy candidate in Applied Ecology (projected finish: 2023)
+**Cornell University**: Doctor of Philosophy in Applied Ecology (2023)
 
 * Concentrations: Fishery & Aquatic Sciences, Quantitative Ecology, and Human Dimensions to Natural Resource Management
 
@@ -36,10 +36,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #### Cornell University (Ithaca, NY)
 
-**Graduate Research Assistant, Applied Ecology (2019 - present)**
+**Graduate Research Assistant, Applied Ecology (2019 - 2023)**
 
-* Using long-term monitoring datasets to understand the lower trophic levels of the Great Lakes
-* Launched a Zooplankton as Indicators ([ZIG](https://sfigary.github.io/website/ZIG.html)) project in Nov 2019 (>140 participants) as part of the Global Lake Ecological Observatory Network to investigate the use of zooplankton as indicators with a global dataset ([L&O Community News](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lob.10515)). 
+* Using long-term monitoring datasets to understand the lower trophic levels of the Great Lakes [Read](https://doi.org/10.1016/j.jglr.2023.02.013)
+* Selected uses of zooplankton as indicators of community change from 1998 - 2019 in the Great Lakes
+* Launched a Zooplankton as Indicators ([ZIG](https://sfigary.github.io/website/ZIG.html)) project in Nov 2019 (>165 participants) as part of the Global Lake Ecological Observatory Network to investigate the use of zooplankton as indicators with a global dataset ([L&O Community News](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lob.10515)). 
 
 <br>
 

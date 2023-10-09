@@ -13,17 +13,35 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### **Education**
 
+**Doctor of Philosophy in Applied Ecology (2023)**
+
+*Cornell University*
+
+Concentrations: Fishery & Aquatic Sciences, Quantitative Ecology, and Human Dimensions to Natural Resource Management
+
 <br>
 
-**Cornell University**: Doctor of Philosophy in Applied Ecology (2023)
+**Master of Science in Ecology (2013)**
 
-* Concentrations: Fishery & Aquatic Sciences, Quantitative Ecology, and Human Dimensions to Natural Resource Management
+*SUNY College of Environmental Science and Forestry*
 
-**SUNY College of Environmental Science and Forestry**: Master of Science in Ecology (2013)
+Concentration: Aquatic Ecology
 
-**Maxwell School of Citizenship at Syracuse University**: Master of Public Administration (2013)
+<br>
 
-**SUNY College at Brockport**: Bachelor of Science in Environmental Science and Biology (2008)
+**Master of Public Administration (2013)**
+
+*Maxwell School of Citizenship at Syracuse University* 
+
+Concentration: Environmental Policy
+
+<br>
+
+**Bachelor of Science in Environmental Science and Biology (2008)**
+
+*SUNY College at Brockport*
+
+Concentration: Aquatic Ecology, Chemistry, Political Science
 
 <br>
 
@@ -31,6 +49,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 ### **Professional Experience**
+
+#### University of Vermont/Visiting at Cornell University (Ithaca, NY)
+
+**USGS Powell Center Postdoctoral Research Fellow (2023 - present)**
+
+* Co-Principal Investigator of the "Synthesizing patterns and drivers of changes in lake zooplankton community dynamics worldwide" [project](https://www.usgs.gov/centers/john-wesley-powell-center-for-analysis-and-synthesis/science/synthesizing-patterns-and) through the USGS Powell Center.
+* Co-leading the working group of 15 international aquatic ecologists at the Powell Center and leading the larger international group, [ZIG](https://sfigary.github.io/website/ZIG.html), to develop the largest biological community dataset known to date.
 
 <br>
 
@@ -40,7 +65,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * Using long-term monitoring datasets to understand the lower trophic levels of the Great Lakes [Read](https://doi.org/10.1016/j.jglr.2023.02.013)
 * Selected uses of zooplankton as indicators of community change from 1998 - 2019 in the Great Lakes
-* Launched a Zooplankton as Indicators ([ZIG](https://sfigary.github.io/website/ZIG.html)) project in Nov 2019 (>165 participants) as part of the Global Lake Ecological Observatory Network to investigate the use of zooplankton as indicators with a global dataset ([L&O Community News](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lob.10515)). 
+* Launched a Zooplankton as Indicators ([ZIG](https://sfigary.github.io/website/ZIG.html)) project in Nov 2019 (>165 participants) as part of the Global Lake Ecological Observatory Network to investigate the use of zooplankton as indicators with a global dataset ([L&O Community News](https://aslopubs.onlΩinelibrary.wiley.com/doi/full/10.1002/lob.10515)). 
 
 <br>
 
@@ -144,9 +169,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### **Presentations (past ten years)**
 
+*  **Figary, S.** July 2023. Small, but powerful: Using decades of zooplankton community structure data to understand the Laurentian Great Lakes and beyond. Cornell Biological Field Station Summer Seminar Series. Presentation.
+
 *  **Figary, S.**, J. M. Watkins, L. G. Rudstam. Jan 2023. Zooplankton indicator development for Erie, Great Lakes, and globally. Department of Natural Resources Symposium. Ithaca, New York. Presentation.
 
 *  Bruel, R., Z. Ersoy and others including **S. Figary**. Nov 2022. ZooSize – Crustacean zooplankton community size distribution across a worldwide set of freshwater lakes. GLEON All-hands meeting. Lake George, New York. Poster.
+
+*  **Figary, S.**, J. M. Watkins, L. G. Rudstam. Oct 2022. Zooplankton Indicator development for Erie, Great Lakes, and globally. EPA Great Lakes National Program Office. Biological Monitoring Program Grantees Meeting. Presentation.
 
 * Jordan, P. D., **S. Figary**, C. Hotaling, A. VanDeValk, T. Brooking, L. Rudstam. Sept 2022.  Invasive Bythotrephes longimanus are selected by Age-0 Yellow Perch and do not negatively affect perch growth. PERCIS V, Biology of Percid Fishes. Ceske Budejovice, Czech Republic. Presentation.
 
@@ -194,10 +223,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 *	**Figary, S.**, A. Cooper, R. Eisman, P. Gardener, and B. Nyholm. January 2015. Using Citizen Scientists To Monitor Watershed Improvements In Five Philadelphia Area Watersheds. Delaware Estuary Science & Environmental Summit. Cape May, New Jersey. Poster presentation.
 
-*	**Figary, S.**,  K. L. Schulz, M. A. Teece, and L. G. Rudstam. April 2013. Why are half of New York Finger Lakes invaded by *Cercopagis pengoi*, while the other half have remained non-invaded for over a decade? Graduate Level Research Conference. Brockport, New York. Presentation.
-
 
 ```{r, echo=FALSE}
+
+# *	**Figary, S.**,  K. L. Schulz, M. A. Teece, and L. G. Rudstam. April 2013. Why are half of New York Finger Lakes invaded by *Cercopagis pengoi*, while the other half have remained non-invaded for over a decade? Graduate Level Research Conference. Brockport, New York. Presentation.
 
 # *	**Figary, S.**,  K. L. Schulz, M. A. Teece, and L. G. Rudstam. 2012. Unexpected effects of an invasive zooplankton, *Cercopagis pengoi*, on the trophic position of planktivorous fish, *Alsoa pseudoharengus*, in New York’s Finger Lakes. International Association of Great Lakes Research Conference. Cornwall, Ontario, Canada. Presentation.
 

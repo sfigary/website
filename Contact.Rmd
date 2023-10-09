@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Cornell University, Department of Natural Resources & the Environment
 
-Email: sef92@cornell.edu
+Email: sef92@cornell.edu or stephanie.figary@uvm.edu
 
 Twitter: @StephFigary
 

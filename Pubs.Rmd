@@ -11,9 +11,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### **Published journal articles**
 
-**Figary, S. E.**, K. Holeck, C. Hotaling, J. Watkins, J. Lantry, M. Connerton, S. Prindle, Z. Biesinger, B. O’Malley, L. Rudstam. 2023. Lake Ontario’s nearshore zooplankton: Community composition changes and comparisons to the offshore. Journal of Great Lakes Research. In press. [Read](https://doi.org/10.1016/j.jglr.2023.02.013).
+Kovalenko K., E. D. Reavie, **S. Figary**, L. G. Rudstam, J. M. Watkins, A. Scofield, C. T. Filstrup. Zooplankton-phytoplankton biomass and diversity relationships in the Great Lakes. PLOS ONE. (accepted)
 
-Jordan, P. D. B., **S. E. Figary**, T. E. Brooking, K. T. Holeck, C. W. Hotaling, A. J. VanDeValk, L. G. Rudstam. 2023. The effects of *Bythotrephes longimanus* invasion on diets and growth of age-0 yellow perch in Oneida Lake, New York. Ecology of Freshwater Fish. In press. [Read](https://doi.org/10.1111/eff.12717).
+**Figary, S. E.**, K. Holeck, C. Hotaling, J. Watkins, J. Lantry, M. Connerton, S. Prindle, Z. Biesinger, B. O’Malley, L. Rudstam. 2023. Lake Ontario’s nearshore zooplankton: Community composition changes and comparisons to the offshore. Journal of Great Lakes Research. [Read](https://doi.org/10.1016/j.jglr.2023.02.013).
+
+Jordan, P. D. B., **S. E. Figary**, T. E. Brooking, K. T. Holeck, C. W. Hotaling, A. J. VanDeValk, L. G. Rudstam. 2023. The effects of *Bythotrephes longimanus* invasion on diets and growth of age-0 yellow perch in Oneida Lake, New York. Ecology of Freshwater Fish. [Read](https://doi.org/10.1111/eff.12717).
 
 **Figary, S. E.**, M. F. Meyer, W. J. S. Currie, and ZIG Participants. 2022. Building a worldwide freshwater zooplankton dataset to synthesis patterns of zooplankton community structure and change.  Limnology and Oceanography Bulletin. Community News. [Read](https://doi.org/10.1002/lob.10515).
 
@@ -30,7 +32,8 @@ Kring, S. A., **S. E. Figary,** G. L. Boyer, S. B. Watson, and M. R. Twiss. 2014
 
 ### **Manuscripts in preparation**
 
-Kovalenko K., E. D. Reavie, **S. Figary**, L. G. Rudstam, J. M. Watkins, A. Scofield, C. T. Filstrup. Zooplankton-phytoplankton biomass and diversity relationships in the Great Lakes. PLOS ONE. (under review)
+**Figary, S.**, J. Watkins, B. Lauber, A. Scofield, and L. Rudstam, Revisiting zooplankton as indicators in the Great Lakes: What indicators summarize changes in the zooplankton community composition over time? Journal of Great Lakes Research. In EPA internal review.
+
 
 **Figary, S.**, P. DeWitt and N. Detenbeck. pTITAN2: Permutation of Treatment Labels and Threshold Indicator Taxa ANalysis. F1000Research. [In open review](https://f1000research.com/articles/11-267/pdf)
 

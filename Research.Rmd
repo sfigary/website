@@ -19,7 +19,7 @@ I am passionate about understanding freshwater ecosystems to protect and manage 
 
 ### **Zooplankton as global ecosystem indicators**
 
-I am co-leading a project on zooplankton as ecosystem indicators ([ZIG](https://sfigary.github.io/website/ZIG.html)) as part of the Global Lake Ecological Observatory Network ([GLEON](https://gleon.org/)) with over 165 aquatic researchers from around the world. Our first project will determine the effectiveness of existing zooplankton metrics (e.g., % calanoids) using a global dataset that ZIG is creating. Results from this research will provide guidance on using zooplankton as indicators in geographic regions and lake types. Look [here](https://sfigary.github.io/website/ZIG.html) to learn more about this effort and getting involved.
+I am co-leading a project on zooplankton as ecosystem indicators as part of the Global Lake Ecological Observatory Network [(GLEON)](https://gleon.org/) with over 165 aquatic researchers from around the world. Our first objective is to build the largest freshwater zooplankton dataset known to date and then to use the dataset to answer ecological questions [(Read)](https://doi.org/10.1002/lob.10515). Results from this research will provide guidance on using zooplankton as indicators in geographic regions and lake types. Look [here](https://sfigary.github.io/website/ZIG.html) to learn more about this effort and getting involved.
 
 <br>
 
@@ -29,7 +29,7 @@ I am co-leading a project on zooplankton as ecosystem indicators ([ZIG](https://
 
 ### **Understanding lower trophic levels in the Great Lakes**
 
-I used long-term existing data from the United States Environmental Protection Agency’s [Biological Monitoring Program](https://www.epa.gov/great-lakes-monitoring/great-lakes-biology-monitoring-program) to better understand the Great Lakes and how lower trophic levels have changed over time. I used this data to determine (1) if the nearshore and the offshore of Lake Ontario should be treated as different habitat types and if the habitats changed similarly over time and (2) determined the most robust use of zooplankton as ecosystem indicators based on past performance. 
+I used long-term existing data from the United States Environmental Protection Agency’s [Biological Monitoring Program](https://www.epa.gov/great-lakes-monitoring/great-lakes-biology-monitoring-program) to better understand the Great Lakes and how lower trophic levels have changed over time. I used this data to determine (1) if the nearshore and the offshore of Lake Ontario should be treated as different habitat types and if the habitats changed similarly over time [(Read)](https://doi.org/10.1016/j.jglr.2023.02.013) and (2) determined the most robust use of zooplankton as ecosystem indicators based on past performance. 
 
 
 <br>
@@ -99,4 +99,4 @@ I am constantly thinking about how use my scientific training to help the enviro
 
 ### **Food-web disruption by non-native species**
 
-An overarching theme in my research is studying how food webs respond to different factors, including non-native species. While at SUNY ESF, I determined the impact of *Cercopagis pengoi* in the New York Finger Lakes on their likely prey items ([published](https://www.reabic.net/aquaticinvasions/2021/issue3.aspx)) and the pattern of their invasion in the region. 
+An overarching theme in my research is studying how food webs respond to different factors, including non-native species. While at SUNY ESF, I determined the impact of *Cercopagis pengoi* in the New York Finger Lakes on their likely prey items [(published)](https://www.reabic.net/aquaticinvasions/2021/issue3.aspx) and the pattern of their invasion in the region. More recently, I investigated the impacts of the *Bythotrephes longimanus* invasion on the growth of age-0 yellow perch in Oneida Lake, New York [(Read)](https://doi.org/10.1111/eff.12717).

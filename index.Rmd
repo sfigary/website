@@ -14,9 +14,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br>
 
-I am a freshwater ecologist (PhD) that uses data-intensive methods and existing datasets to answer ecological and applied questions. With a background in public administration (MPA) I am particularly interested in increasing the usability of existing data, and pursuing projects with impacts beyond scientific publications. 
+I am a freshwater ecologist (PhD) that uses data-intensive methods to answer ecological and applied questions. With a background in public administration (MPA), I am particularly interested in increasing the usability of existing data and pursuing projects with broader impacts. 
 
-One example of such work is the Zooplankton as Indicators Group ([ZIG](https://sfigary.github.io/website/ZIG.html)) that I co-lead. This group is both developing the largest world-wide dataset of freshwater zooplankton community data and is planning to use this data to better understand the use of zooplankton as indicators of ecological condition at a global scale.
+One example of such work is the Zooplankton as Indicators Group ([ZIG](https://sfigary.github.io/website/ZIG.html)) that I co-lead. This group is both developing the largest world-wide dataset of freshwater zooplankton community data and will use it to better understand the use of zooplankton as indicators of ecological condition at a global scale.
 
 Please see my [research](https://sfigary.github.io/website/Research.html) interests for more information and [reach out](https://sfigary.github.io/website/Contact.html) if you have any questions.
 

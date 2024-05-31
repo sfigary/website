@@ -221,7 +221,7 @@ Concentration: Aquatic Ecology, Chemistry, Political Science
 
 * Cooper, A, J. Musselman and **S. Figary**. March 2015. Streamkeepers from Scratch: Building a Volunteer Monitoring Program. Watershed Congress along the Schuylkill. Pottstown, Pennsylvania. Presentation.
 
-*	**Figary, S.**, A. Cooper, R. Eisman, P. Gardener, and B. Nyholm. January 2015. Using Citizen Scientists To Monitor Watershed Improvements In Five Philadelphia Area Watersheds. Delaware Estuary Science & Environmental Summit. Cape May, New Jersey. Poster presentation.
+*	**Figary, S.**, A. Cooper, R. Eisman, P. Gardener, and B. Nyholm. January 2015. Using Citizen Scientists To Monitor Watershed Improvements In Five Philadelphia Area Watersheds. Delaware Estuary Science & Environmental Summit. Cape May, New Jersey. Poster.
 
 
 ```{r, echo=FALSE}

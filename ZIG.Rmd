@@ -1,5 +1,4 @@
 ---
-title: Zooplankton as Indicators Group (ZIG)
 output: html_document
 ---
 
@@ -7,23 +6,22 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-
 <center>
-![](Logo3.jpg){width=30%}
+
+![](ZIG logo name of org around circle.png){width=40%}<br>![](Logo3.jpg){width=20%}
+
 
 </center>
+
 
 <left>
 
 
-<br>
-
-
-ZIG formed in November 2019 at the Global Lake Ecological Observatory Network [GLEON](https://gleon.org/) all-hands meeting in Huntsville, Canada with four co-champions (Steph Figary, Michael Meyer, Rachel Pilla, and Warren Currie). Since then the team has grown to include over 165 aquatic scientists from around the world. The team has several goals:
+ZIG formed in November 2019 at the Global Lake Ecological Observatory Network [GLEON](https://gleon.org/) all-hands meeting in Huntsville, Canada with four co-champions (Steph Figary, Michael Meyer, Rachel Pilla, and Warren Currie). Since then the team has grown to ~200 aquatic scientists from around the world. The team has several goals:
 
 1. **Develop an analysis-ready data product:** Out first goal is to develop the Zooplankton International Geospatial (ZIG) dataset. This dataset includes zooplankton community, water parameter, and waterbody characteristic data from over 280 waterbodies around the world. This analysis-ready dataset is fully harmonized, compiled, and easily linked to HydroLAKES. 
 
-2. **Publish a main synthesis paper:** After completeing the dataset it will first be used to answer ZIG's main synthesis question using data from all of the lakes. The main synthesis question addresses which aspects of zooplankton community structure are the most sensitive, and widely applicable, indicators of environmental change. All participants are welcome to contribute to the manuscript. 
+2. **Publish a main synthesis paper:** After completing the dataset it will first be used to answer ZIG's main synthesis question using data from all of the lakes. The main synthesis question addresses which aspects of zooplankton community structure are the most sensitive, and widely applicable, indicators of environmental change. All participants are welcome to contribute to the manuscript. 
 
 3. **Launch follow-up questions:** There are so many other research questions that can be answered using the ZIG dataset, including questions on biodiversity, functional diversity, additional questions about zooplankton as indicators, and many others. After the dataset is created and the main synthesis question is addressed, the team will launch multiple follow up questions using some or all of the ZIG dataset. 
 
@@ -52,7 +50,11 @@ Please [reach out](https://sfigary.github.io/website/Contact.html)! While ZIG ha
 ```{r, echo=FALSE, message=FALSE}
 library(tidyverse)
 
-knitr::kable(read.csv("project_log.csv")) %>%
+x <- readxl::read_xlsx("project_log.xlsx") 
+x$Date <- format(as.Date(x$Date), "%Y-%m")
+
+
+knitr::kable(x) %>%
   kableExtra::kable_styling(full_width = F)
 ```
 
